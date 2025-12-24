@@ -1,4 +1,4 @@
-## Updated on 2025.12.23
+## Updated on 2025.12.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,6 +16,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-23**|**LEAD: Minimizing Learner-Expert Asymmetry in End-to-End Driving**|Kashyap Chitta Team|[2512.20563](http://arxiv.org/abs/2512.20563)|null|
+|**2025-12-23**|**Asynchronous Fast-Slow Vision-Language-Action Policies for Whole-Body Robotic Manipulation**|Lianyang Ma Team|[2512.20188](http://arxiv.org/abs/2512.20188)|null|
+|**2025-12-23**|**LoLA: Long Horizon Latent Action Learning for General Robot Manipulation**|Baining Guo Team|[2512.20166](http://arxiv.org/abs/2512.20166)|null|
 |**2025-12-22**|**Learning Generalizable Hand-Object Tracking from Synthetic Demonstrations**|Ping Tan Team|[2512.19583](http://arxiv.org/abs/2512.19583)|null|
 |**2025-12-22**|**REALM: A Real-to-Sim Validated Benchmark for Generalization in Robotic Manipulation**|Vladimir Petrik Team|[2512.19562](http://arxiv.org/abs/2512.19562)|null|
 |**2025-12-22**|**A Gauss-Newton-Induced Structure-Exploiting Algorithm for Differentiable Optimal Control**|Hong Chen Team|[2512.19447](http://arxiv.org/abs/2512.19447)|null|
@@ -1618,12 +1621,24 @@
 |**2018-10-09**|**Robustness via Retrying: Closed-Loop Robotic Manipulation with Self-Supervised Learning**|Chelsea Finn Team|[1810.03043](http://arxiv.org/abs/1810.03043)|null|
 |**2017-10-27**|**Learning Robotic Manipulation of Granular Media**|Sergey Levine Team|[1709.02833](http://arxiv.org/abs/1709.02833)|null|
 
-<p align=right>(<a href=#updated-on-20251223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251224>back to top</a>)</p>
 
 ## VLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-23**|**LightTact: A Visual-Tactile Fingertip Sensor for Deformation-Independent Contact Sensing**|Ding Zhao Team|[2512.20591](http://arxiv.org/abs/2512.20591)|null|
+|**2025-12-23**|**FlashVLM: Text-Guided Visual Token Selection for Large Multimodal Models**|Keze Wang Team|[2512.20561](http://arxiv.org/abs/2512.20561)|null|
+|**2025-12-23**|**Learning to Reason in 4D: Dynamic Spatial Understanding for Vision Language Models**|Xiaojuan Qi Team|[2512.20557](http://arxiv.org/abs/2512.20557)|null|
+|**2025-12-23**|**Multi-Grained Text-Guided Image Fusion for Multi-Exposure and Multi-Focus Scenarios**|Jie Li Team|[2512.20556](http://arxiv.org/abs/2512.20556)|null|
+|**2025-12-23**|**Chain-of-Anomaly Thoughts with Large Vision-Language Models**|David Semedo Team|[2512.20417](http://arxiv.org/abs/2512.20417)|null|
+|**2025-12-23**|**CRAFT: Continuous Reasoning and Agentic Feedback Tuning for Multimodal Text-to-Image Generation**|D. Timonin Team|[2512.20362](http://arxiv.org/abs/2512.20362)|null|
+|**2025-12-23**|**ActionFlow: A Pipelined Action Acceleration for Vision Language Models on Edge**|Xuehai Zhou Team|[2512.20276](http://arxiv.org/abs/2512.20276)|null|
+|**2025-12-23**|**LADLE-MM: Limited Annotation based Detector with Learned Ensembles for Multimodal Misinformation**|Irene Amerini Team|[2512.20257](http://arxiv.org/abs/2512.20257)|null|
+|**2025-12-23**|**Asynchronous Fast-Slow Vision-Language-Action Policies for Whole-Body Robotic Manipulation**|Lianyang Ma Team|[2512.20188](http://arxiv.org/abs/2512.20188)|null|
+|**2025-12-23**|**Towards Natural Language-Based Document Image Retrieval: New Dataset and Benchmark**|Hailun Lin Team|[2512.20174](http://arxiv.org/abs/2512.20174)|null|
+|**2025-12-23**|**LoLA: Long Horizon Latent Action Learning for General Robot Manipulation**|Baining Guo Team|[2512.20166](http://arxiv.org/abs/2512.20166)|null|
+|**2025-12-23**|**SE360: Semantic Edit in 360 $^\circ$ Panoramas via Hierarchical Data Construction**|Taehyun Rhee Team|[2512.19943](http://arxiv.org/abs/2512.19943)|null|
 |**2025-12-22**|**Beyond CLIP: Knowledge-Enhanced Multimodal Transformers for Cross-Modal Alignment in Diabetic Retinopathy Diagnosis**|Pabitra Mitra Team|[2512.19663](http://arxiv.org/abs/2512.19663)|null|
 |**2025-12-22**|**CASA: Cross-Attention via Self-Attention for Efficient Vision-Language Fusion**|Patrick Pérez Team|[2512.19535](http://arxiv.org/abs/2512.19535)|null|
 |**2025-12-22**|**QuantiPhy: A Quantitative Benchmark Evaluating Physical Reasoning Abilities of Vision-Language Models**|Ehsan Adeli Team|[2512.19526](http://arxiv.org/abs/2512.19526)|null|
@@ -4116,12 +4131,16 @@
 |**2024-04-19**|**VLP: A Survey on Vision-Language Pre-training**|Bo Xu Team|[2202.09061](http://arxiv.org/abs/2202.09061)|null|
 |**2022-10-07**|**Learning to Prompt for Vision-Language Models**|Ziwei Liu Team|[2109.01134](http://arxiv.org/abs/2109.01134)|null|
 
-<p align=right>(<a href=#updated-on-20251223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251224>back to top</a>)</p>
 
 ## VLA
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-23**|**ActionFlow: A Pipelined Action Acceleration for Vision Language Models on Edge**|Xuehai Zhou Team|[2512.20276](http://arxiv.org/abs/2512.20276)|null|
+|**2025-12-23**|**Asynchronous Fast-Slow Vision-Language-Action Policies for Whole-Body Robotic Manipulation**|Lianyang Ma Team|[2512.20188](http://arxiv.org/abs/2512.20188)|null|
+|**2025-12-23**|**LoLA: Long Horizon Latent Action Learning for General Robot Manipulation**|Baining Guo Team|[2512.20166](http://arxiv.org/abs/2512.20166)|null|
+|**2025-12-23**|**Bring My Cup! Personalizing Vision-Language-Action Models with Visual Attentive Prompting**|Wook-Shin Han Team|[2512.20014](http://arxiv.org/abs/2512.20014)|null|
 |**2025-12-22**|**REALM: A Real-to-Sim Validated Benchmark for Generalization in Robotic Manipulation**|Vladimir Petrik Team|[2512.19562](http://arxiv.org/abs/2512.19562)|null|
 |**2025-12-22**|**Point What You Mean: Visually Grounded Instruction Policy**|Yang Gao Team|[2512.18933](http://arxiv.org/abs/2512.18933)|null|
 |**2025-12-20**|**STORM: Search-Guided Generative World Models for Robotic Manipulation**|Keze Wang Team|[2512.18477](http://arxiv.org/abs/2512.18477)|null|
@@ -4690,7 +4709,7 @@
 |**2022-08-16**|**A Dataset for Interactive Vision-Language Navigation with Unknown Command Feasibility**|Bryan A. Plummer Team|[2202.02312](http://arxiv.org/abs/2202.02312)|null|
 |**2017-04-25**|**An Analysis of Action Recognition Datasets for Language and Vision Tasks**|Frank Keller Team|[1704.07129](http://arxiv.org/abs/1704.07129)|null|
 
-<p align=right>(<a href=#updated-on-20251223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251224>back to top</a>)</p>
 
 ## Humanoid
 
@@ -5008,7 +5027,7 @@
 |**2016-07-19**|**Design and implementation of computational platform for social-humanoid robot Lumen as an exhibition guide in Electrical Engineering Days 2015**|Ary Setijadi Prihatmanto Team|[1607.04763](http://arxiv.org/abs/1607.04763)|null|
 |**2016-11-18**|**Gaze Stabilization for Humanoid Robots: a Comprehensive Framework**|Lorenzo Natale Team|[1411.3525](http://arxiv.org/abs/1411.3525)|null|
 
-<p align=right>(<a href=#updated-on-20251223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251224>back to top</a>)</p>
 
 ## Dexterous
 
@@ -5028,7 +5047,7 @@
 |**2025-12-02**|**Experimental Characterization of Fingertip Trajectory following for a 3-DoF Series-Parallel Hybrid Robotic Finger**|Nilanjan Chakraborty Team|[2512.02951](http://arxiv.org/abs/2512.02951)|null|
 |**2025-12-02**|**RoboWheel: A Data Engine from Real-World Human Demonstrations for Cross-Embodiment Robotic Learning**|Haoqian Wang Team|[2512.02729](http://arxiv.org/abs/2512.02729)|null|
 |**2025-12-01**|**Learning Dexterous Manipulation Skills from Imperfect Simulations**|Haozhi Qi Team|[2512.02011](http://arxiv.org/abs/2512.02011)|null|
-|**2025-12-02**|**GR-RL: Going Dexterous and Precise for Long-Horizon Robotic Manipulation**|Yonghui Wu Team|[2512.01801](http://arxiv.org/abs/2512.01801)|null|
+|**2025-12-23**|**GR-RL: Going Dexterous and Precise for Long-Horizon Robotic Manipulation**|Yonghui Wu Team|[2512.01801](http://arxiv.org/abs/2512.01801)|null|
 |**2025-11-30**|**Tactile Robotics: Past and Future**|Nathan F. Lepora Team|[2512.01106](http://arxiv.org/abs/2512.01106)|null|
 |**2025-11-30**|**CycleManip: Enabling Cyclic Task Manipulation via Effective Historical Perception and Understanding**|Wei-Shi Zheng Team|[2512.01022](http://arxiv.org/abs/2512.01022)|**[link](https://isee-laboratory.github.io/OmniDexGrasp/)**|
 |**2025-12-19**|**MILE: A Mechanically Isomorphic Exoskeleton Data Collection System with Fingertip Visuotactile Sensing for Dexterous Manipulation**|Xiangyang Zhu Team|[2512.00324](http://arxiv.org/abs/2512.00324)|null|
@@ -5227,5 +5246,5 @@
 |**2018-06-27**|**Learning Complex Dexterous Manipulation with Deep Reinforcement Learning and Demonstrations**|Sergey Levine Team|[1709.10087](http://arxiv.org/abs/1709.10087)|**[link](https://sites.google.com/view/deeprl-dexterous-manipulation)**|
 |**2017-03-21**|**Learning Dexterous Manipulation for a Soft Robotic Hand from Human Demonstration**|Pieter Abbeel Team|[1603.06348](http://arxiv.org/abs/1603.06348)|null|
 
-<p align=right>(<a href=#updated-on-20251223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251224>back to top</a>)</p>
 

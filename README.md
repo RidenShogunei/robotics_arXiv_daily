@@ -1,4 +1,4 @@
-## Updated on 2025.12.24
+## Updated on 2025.12.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,6 +16,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-24**|**RoboCade: Gamifying Robot Data Collection**|Dorsa Sadigh Team|[2512.21235](http://arxiv.org/abs/2512.21235)|null|
+|**2025-12-24**|**Language-Guided Grasp Detection with Coarse-to-Fine Learning for Robotic Manipulation**|Hu Cao Team|[2512.21065](http://arxiv.org/abs/2512.21065)|null|
+|**2025-12-24**|**Tracing Energy Flow: Learning Tactile-based Grasping Force Control to Prevent Slippage in Dynamic Object Interaction**|Takamitsu Matsubara Team|[2512.21043](http://arxiv.org/abs/2512.21043)|null|
+|**2025-12-24**|**Proprioception Enhances Vision Language Model in Generating Captions and Subtask Segmentations for Robot Task**|Tetsuya Ogata Team|[2512.20876](http://arxiv.org/abs/2512.20876)|null|
+|**2025-12-23**|**YCB-Handovers Dataset: Analyzing Object Weight Impact on Human Handovers to Adapt Robotic Handover Motion**|Christian Smith Team|[2512.20847](http://arxiv.org/abs/2512.20847)|null|
 |**2025-12-23**|**LEAD: Minimizing Learner-Expert Asymmetry in End-to-End Driving**|Kashyap Chitta Team|[2512.20563](http://arxiv.org/abs/2512.20563)|null|
 |**2025-12-23**|**Asynchronous Fast-Slow Vision-Language-Action Policies for Whole-Body Robotic Manipulation**|Lianyang Ma Team|[2512.20188](http://arxiv.org/abs/2512.20188)|null|
 |**2025-12-23**|**LoLA: Long Horizon Latent Action Learning for General Robot Manipulation**|Baining Guo Team|[2512.20166](http://arxiv.org/abs/2512.20166)|null|
@@ -1621,12 +1626,29 @@
 |**2018-10-09**|**Robustness via Retrying: Closed-Loop Robotic Manipulation with Self-Supervised Learning**|Chelsea Finn Team|[1810.03043](http://arxiv.org/abs/1810.03043)|null|
 |**2017-10-27**|**Learning Robotic Manipulation of Granular Media**|Sergey Levine Team|[1709.02833](http://arxiv.org/abs/1709.02833)|null|
 
-<p align=right>(<a href=#updated-on-20251224>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251225>back to top</a>)</p>
 
 ## VLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-24**|**Beyond Memorization: A Multi-Modal Ordinal Regression Benchmark to Expose Popularity Bias in Vision-Language Models**|Yu-Lun Liu Team|[2512.21337](http://arxiv.org/abs/2512.21337)|**[link](https://sytwu.github.io/BeyondMemo/)**|
+|**2025-12-24**|**Your Reasoning Benchmark May Not Test Reasoning: Revealing Perception Bottleneck in Abstract Reasoning Benchmarks**|Jiaqi W. Ma Team|[2512.21329](http://arxiv.org/abs/2512.21329)|null|
+|**2025-12-24**|**LookPlanGraph: Embodied Instruction Following Method with VLM Graph Augmentation**|Aleksandr I. Panov Team|[2512.21243](http://arxiv.org/abs/2512.21243)|null|
+|**2025-12-24**|**Leveraging Lightweight Entity Extraction for Scalable Event-Based Image Retrieval**|Tran Chi Nguyen Team|[2512.21221](http://arxiv.org/abs/2512.21221)|null|
+|**2025-12-24**|**RoboSafe: Safeguarding Embodied Agents via Executable Safety Logic**|Xianglong Liu Team|[2512.21220](http://arxiv.org/abs/2512.21220)|null|
+|**2025-12-24**|**VisRes Bench: On Evaluating the Visual Reasoning Capabilities of VLMs**|Sanath Narayan Team|[2512.21194](http://arxiv.org/abs/2512.21194)|null|
+|**2025-12-24**|**MarineEval: Assessing the Marine Intelligence of Vision-Language Models**|Sai-Kit Yeung Team|[2512.21126](http://arxiv.org/abs/2512.21126)|null|
+|**2025-12-24**|**UniRec-0.1B: Unified Text and Formula Recognition with 0.1B Parameters**|Yu-Gang Jiang Team|[2512.21095](http://arxiv.org/abs/2512.21095)|null|
+|**2025-12-24**|**GateBreaker: Gate-Guided Attacks on Mixture-of-Expert LLMs**|Ahmad-Reza Sadeghi Team|[2512.21008](http://arxiv.org/abs/2512.21008)|null|
+|**2025-12-24**|**ETP-R1: Evolving Topological Planning with Reinforcement Fine-tuning for Vision-Language Navigation in Continuous Environments**|Yue Wang Team|[2512.20940](http://arxiv.org/abs/2512.20940)|null|
+|**2025-12-24**|**Transductive Visual Programming: Evolving Tool Libraries from Experience for Spatial Reasoning**|Serena Yeung-Levy Team|[2512.20934](http://arxiv.org/abs/2512.20934)|**[link](https://transductive-visualprogram.github.io/)**|
+|**2025-12-24**|**PanoGrounder: Bridging 2D and 3D with Panoramic Scene Representations for VLM-based 3D Visual Grounding**|Jongwoo Lim Team|[2512.20907](http://arxiv.org/abs/2512.20907)|null|
+|**2025-12-24**|**Benchmarking and Enhancing VLM for Compressed Image Understanding**|Yan Wang Team|[2512.20901](http://arxiv.org/abs/2512.20901)|null|
+|**2025-12-24**|**Proprioception Enhances Vision Language Model in Generating Captions and Subtask Segmentations for Robot Task**|Tetsuya Ogata Team|[2512.20876](http://arxiv.org/abs/2512.20876)|null|
+|**2025-12-23**|**Input-Adaptive Visual Preprocessing for Efficient Fast Vision-Language Model Inference**|Novanto Yudistira Team|[2512.20839](http://arxiv.org/abs/2512.20839)|null|
+|**2025-12-23**|**Soft Filtering: Guiding Zero-shot Composed Image Retrieval with Prescriptive and Proscriptive Constraints**|Sungchul Choi Team|[2512.20781](http://arxiv.org/abs/2512.20781)|null|
+|**2025-12-23**|**VL4Gaze: Unleashing Vision-Language Models for Gaze Following**|Yihua Cheng Team|[2512.20735](http://arxiv.org/abs/2512.20735)|null|
 |**2025-12-23**|**LightTact: A Visual-Tactile Fingertip Sensor for Deformation-Independent Contact Sensing**|Ding Zhao Team|[2512.20591](http://arxiv.org/abs/2512.20591)|null|
 |**2025-12-23**|**FlashVLM: Text-Guided Visual Token Selection for Large Multimodal Models**|Keze Wang Team|[2512.20561](http://arxiv.org/abs/2512.20561)|null|
 |**2025-12-23**|**Learning to Reason in 4D: Dynamic Spatial Understanding for Vision Language Models**|Xiaojuan Qi Team|[2512.20557](http://arxiv.org/abs/2512.20557)|null|
@@ -4131,7 +4153,7 @@
 |**2024-04-19**|**VLP: A Survey on Vision-Language Pre-training**|Bo Xu Team|[2202.09061](http://arxiv.org/abs/2202.09061)|null|
 |**2022-10-07**|**Learning to Prompt for Vision-Language Models**|Ziwei Liu Team|[2109.01134](http://arxiv.org/abs/2109.01134)|null|
 
-<p align=right>(<a href=#updated-on-20251224>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251225>back to top</a>)</p>
 
 ## VLA
 
@@ -4709,12 +4731,13 @@
 |**2022-08-16**|**A Dataset for Interactive Vision-Language Navigation with Unknown Command Feasibility**|Bryan A. Plummer Team|[2202.02312](http://arxiv.org/abs/2202.02312)|null|
 |**2017-04-25**|**An Analysis of Action Recognition Datasets for Language and Vision Tasks**|Frank Keller Team|[1704.07129](http://arxiv.org/abs/1704.07129)|null|
 
-<p align=right>(<a href=#updated-on-20251224>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251225>back to top</a>)</p>
 
 ## Humanoid
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-24**|**Wireless Center of Pressure Feedback System for Humanoid Robot Balance Control using ESP32-C3**|Atar Fuady Babgei Team|[2512.21219](http://arxiv.org/abs/2512.21219)|null|
 |**2025-12-19**|**Semantic Co-Speech Gesture Synthesis and Real-Time Control for Humanoid Robots**|Gang Zhang Team|[2512.17183](http://arxiv.org/abs/2512.17183)|null|
 |**2025-12-18**|**PhysBrain: Human Egocentric Data as a Bridge from Vision Language Models to Physical Intelligence**|Kai Chen Team|[2512.16793](http://arxiv.org/abs/2512.16793)|null|
 |**2025-12-16**|**CHIP: Adaptive Compliance for Humanoid Control through Hindsight Perturbation**|Yuke Zhu Team|[2512.14689](http://arxiv.org/abs/2512.14689)|**[link](https://nvlabs.github.io/CHIP/)**|
@@ -5027,12 +5050,13 @@
 |**2016-07-19**|**Design and implementation of computational platform for social-humanoid robot Lumen as an exhibition guide in Electrical Engineering Days 2015**|Ary Setijadi Prihatmanto Team|[1607.04763](http://arxiv.org/abs/1607.04763)|null|
 |**2016-11-18**|**Gaze Stabilization for Humanoid Robots: a Comprehensive Framework**|Lorenzo Natale Team|[1411.3525](http://arxiv.org/abs/1411.3525)|null|
 
-<p align=right>(<a href=#updated-on-20251224>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251225>back to top</a>)</p>
 
 ## Dexterous
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-24**|**UniTacHand: Unified Spatio-Tactile Representation for Human to Robotic Hand Skill Transfer**|Zongqing Lu Team|[2512.21233](http://arxiv.org/abs/2512.21233)|null|
 |**2025-12-22**|**Learning Generalizable Hand-Object Tracking from Synthetic Demonstrations**|Ping Tan Team|[2512.19583](http://arxiv.org/abs/2512.19583)|null|
 |**2025-12-19**|**SurgiPose: Estimating Surgical Tool Kinematics from Monocular Video for Surgical Robot Learning**|Axel Krieger Team|[2512.18068](http://arxiv.org/abs/2512.18068)|null|
 |**2025-12-17**|**ISS Policy : Scalable Diffusion Policy with Implicit Scene Supervision**|Jie Mei Team|[2512.15020](http://arxiv.org/abs/2512.15020)|null|
@@ -5246,5 +5270,5 @@
 |**2018-06-27**|**Learning Complex Dexterous Manipulation with Deep Reinforcement Learning and Demonstrations**|Sergey Levine Team|[1709.10087](http://arxiv.org/abs/1709.10087)|**[link](https://sites.google.com/view/deeprl-dexterous-manipulation)**|
 |**2017-03-21**|**Learning Dexterous Manipulation for a Soft Robotic Hand from Human Demonstration**|Pieter Abbeel Team|[1603.06348](http://arxiv.org/abs/1603.06348)|null|
 
-<p align=right>(<a href=#updated-on-20251224>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251225>back to top</a>)</p>
 

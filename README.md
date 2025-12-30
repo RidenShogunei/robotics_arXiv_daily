@@ -16,6 +16,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-29**|**Robo-Dopamine: General Process Reward Modeling for High-Precision Robotic Manipulation**|Shanghang Zhang Team|[2512.23703](http://arxiv.org/abs/2512.23703)|null|
+|**2025-12-29**|**Interactive Robot Programming for Surface Finishing via Task-Centric Mixed Reality Interfaces**|Dongheui Lee Team|[2512.23616](http://arxiv.org/abs/2512.23616)|null|
+|**2025-12-29**|**Act2Goal: From World Model To General Goal-conditioned Policy**|Jianlan Luo Team|[2512.23541](http://arxiv.org/abs/2512.23541)|null|
+|**2025-12-29**|**Robust Deep Learning Control with Guaranteed Performance for Safe and Reliable Robotization in Heavy-Duty Machinery**|Mehdi Heydari Shahna Team|[2512.23505](http://arxiv.org/abs/2512.23505)|null|
 |**2025-12-29**|**Explainable Neural Inverse Kinematics for Obstacle-Aware Robotic Manipulation: A Comparative Analysis of IKNet Variants**|Po-Chiang Lin Team|[2512.23312](http://arxiv.org/abs/2512.23312)|null|
 |**2025-12-29**|**SurgWorld: Learning Surgical Robot Policies from Videos via World Modeling**|Daguang Xu Team|[2512.23162](http://arxiv.org/abs/2512.23162)|null|
 |**2025-12-28**|**A Note on Hybrid Online Reinforcement and Imitation Learning for LLMs: Formulations and Algorithms**|Jiacai Liu Team|[2512.23097](http://arxiv.org/abs/2512.23097)|null|
@@ -1644,6 +1648,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-29**|**Same or Not? Enhancing Visual Perception in Vision-Language Models**|Georgia Gkioxari Team|[2512.23592](http://arxiv.org/abs/2512.23592)|**[link](https://glab-caltech.github.io/twin/)**|
+|**2025-12-29**|**Instruction-Following Evaluation of Large Vision-Language Models**|Jun Suzuki Team|[2512.23572](http://arxiv.org/abs/2512.23572)|null|
+|**2025-12-29**|**VL-RouterBench: A Benchmark for Vision-Language Model Routing**|Xiaolin Huang Team|[2512.23562](http://arxiv.org/abs/2512.23562)|null|
+|**2025-12-29**|**Toward Trustworthy Agentic AI: A Multimodal Framework for Preventing Prompt Injection Attacks**|Mahmoud Abdel Moaty Team|[2512.23557](http://arxiv.org/abs/2512.23557)|null|
+|**2025-12-29**|**PathFound: An Agentic Multimodal Model Activating Evidence-seeking Pathological Diagnosis**|Xiaofan Zhang Team|[2512.23545](http://arxiv.org/abs/2512.23545)|null|
+|**2025-12-29**|**UniHetero: Could Generation Enhance Understanding for Vision-Language-Model at Large Data Scale?**|Xuezhi Cao Team|[2512.23512](http://arxiv.org/abs/2512.23512)|null|
+|**2025-12-29**|**CoFi-Dec: Hallucination-Resistant Decoding via Coarse-to-Fine Generative Feedback in Large Vision-Language Models**|Zepeng Wang Team|[2512.23453](http://arxiv.org/abs/2512.23453)|null|
+|**2025-12-29**|**SpatialMosaic: A Multiview VLM Dataset for Partial Visibility**|Jaesik Park Team|[2512.23365](http://arxiv.org/abs/2512.23365)|null|
 |**2025-12-29**|**Agentic Physical AI toward a Domain-Specific Foundation Model for Nuclear Reactor Control**|Syed Bahauddin Alam Team|[2512.23292](http://arxiv.org/abs/2512.23292)|null|
 |**2025-12-29**|**ViLaCD-R1: A Vision-Language Framework for Semantic Change Detection in Remote Sensing**|Bin Wang Team|[2512.23244](http://arxiv.org/abs/2512.23244)|null|
 |**2025-12-29**|**Multimodal Interpretation of Remote Sensing Images: Dynamic Resolution Input Strategy and Multi-scale Vision-Language Alignment Mechanism**|Runhe Qiu Team|[2512.23243](http://arxiv.org/abs/2512.23243)|null|
@@ -4795,6 +4807,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-29**|**Do You Have Freestyle? Expressive Humanoid Locomotion via Audio Control**|Shanghang Zhang Team|[2512.23650](http://arxiv.org/abs/2512.23650)|null|
 |**2025-12-25**|**World-Coordinate Human Motion Retargeting via SAM 3D Body**|Yukun Zheng Team|[2512.21573](http://arxiv.org/abs/2512.21573)|null|
 |**2025-12-24**|**Wireless Center of Pressure Feedback System for Humanoid Robot Balance Control using ESP32-C3**|Atar Fuady Babgei Team|[2512.21219](http://arxiv.org/abs/2512.21219)|null|
 |**2025-12-19**|**Semantic Co-Speech Gesture Synthesis and Real-Time Control for Humanoid Robots**|Gang Zhang Team|[2512.17183](http://arxiv.org/abs/2512.17183)|null|

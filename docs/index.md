@@ -9,6 +9,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-31**|**Coordinated Humanoid Manipulation with Choice Policies**|Jitendra Malik Team|[2512.25072](http://arxiv.org/abs/2512.25072)|**[link](https://choice-policy.github.io/)**|
+|**2025-12-31**|**Dream2Flow: Bridging Video Generation and Open-World Manipulation with 3D Object Flow**|Ruohan Zhang Team|[2512.24766](http://arxiv.org/abs/2512.24766)|**[link](https://dream2flow.github.io/)**|
 |**2025-12-31**|**RoboMIND 2.0: A Multimodal, Bimanual Mobile Manipulation Dataset for Generalizable Embodied Intelligence**|Jian Tang Team|[2512.24653](http://arxiv.org/abs/2512.24653)|null|
 |**2025-12-31**|**Resolving State Ambiguity in Robot Manipulation via Adaptive Working Memory Recoding**|Wenchao Ding Team|[2512.24638](http://arxiv.org/abs/2512.24638)|null|
 |**2025-12-30**|**Subsecond 3D Mesh Generation for Robot Manipulation**|Daniel Rakita Team|[2512.24428](http://arxiv.org/abs/2512.24428)|null|
@@ -1646,6 +1648,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-31**|**DarkEQA: Benchmarking Vision-Language Models for Embodied Question Answering in Low-Light Indoor Environments**|Tae-Hyun Oh Team|[2512.24985](http://arxiv.org/abs/2512.24985)|null|
+|**2025-12-31**|**CPJ: Explainable Agricultural Pest Diagnosis via Caption-Prompt-Judge with LLM-Judged Refinement**|Weihe Zhong Team|[2512.24947](http://arxiv.org/abs/2512.24947)|null|
+|**2025-12-31**|**Video and Language Alignment in 2D Systems for 3D Multi-object Scenes with Multi-Information Derivative-Free Control**|Rico Sennnrich Team|[2512.24826](http://arxiv.org/abs/2512.24826)|null|
 |**2025-12-31**|**LSRE: Latent Semantic Rule Encoding for Real-Time Semantic Risk Detection in Autonomous Driving**|Diange Yang Team|[2512.24712](http://arxiv.org/abs/2512.24712)|null|
 |**2025-12-31**|**Improving Few-Shot Change Detection Visual Question Answering via Decision-Ambiguity-guided Reinforcement Fine-Tuning**|Quan Wang Team|[2512.24591](http://arxiv.org/abs/2512.24591)|null|
 |**2025-12-31**|**PhyGDPO: Physics-Aware Groupwise Direct Preference Optimization for Physically Consistent Text-to-Video Generation**|Ji Hou Team|[2512.24551](http://arxiv.org/abs/2512.24551)|null|
@@ -4818,6 +4823,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-31**|**Coordinated Humanoid Manipulation with Choice Policies**|Jitendra Malik Team|[2512.25072](http://arxiv.org/abs/2512.25072)|**[link](https://choice-policy.github.io/)**|
 |**2025-12-31**|**Antagonistic Bowden-Cable Actuation of a Lightweight Robotic Hand: Toward Dexterous Manipulation for Payload Constrained Humanoids**|David Hyunchul Shim Team|[2512.24657](http://arxiv.org/abs/2512.24657)|null|
 |**2025-12-30**|**UniAct: Unified Motion Generation and Action Streaming for Humanoid Robots**|Siyuan Huang Team|[2512.24321](http://arxiv.org/abs/2512.24321)|**[link](https://jnnan.github.io/uniact/)**|
 |**2025-12-29**|**Do You Have Freestyle? Expressive Humanoid Locomotion via Audio Control**|Shanghang Zhang Team|[2512.23650](http://arxiv.org/abs/2512.23650)|null|
@@ -5139,6 +5145,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-31**|**ShowUI- $π$ : Flow-based Generative Models as GUI Dexterous Hands**|Mike Zheng Shou Team|[2512.24965](http://arxiv.org/abs/2512.24965)|null|
 |**2025-12-31**|**Antagonistic Bowden-Cable Actuation of a Lightweight Robotic Hand: Toward Dexterous Manipulation for Payload Constrained Humanoids**|David Hyunchul Shim Team|[2512.24657](http://arxiv.org/abs/2512.24657)|null|
 |**2025-12-30**|**World In Your Hands: A Large-Scale and Open-source Ecosystem for Learning Human-centric Manipulation in the Wild**|Wenchao Din Team|[2512.24310](http://arxiv.org/abs/2512.24310)|null|
 |**2025-12-30**|**GR-Dexter Technical Report**|Hang Li Team|[2512.24210](http://arxiv.org/abs/2512.24210)|null|

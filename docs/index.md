@@ -1694,6 +1694,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-15**|**Alterbute: Editing Intrinsic Attributes of Objects in Images**|Yedid Hoshen Team|[2601.10714](http://arxiv.org/abs/2601.10714)|**[link](https://talreiss.github.io/alterbute/)**|
+|**2026-01-15**|**From One-to-One to Many-to-Many: Dynamic Cross-Layer Injection for Deep Vision-Language Fusion**|Lianli Gao Team|[2601.10710](http://arxiv.org/abs/2601.10710)|null|
 |**2026-01-15**|**Molmo2: Open Weights and Data for Vision-Language Models with Video Understanding and Grounding**|Ranjay Krishna Team|[2601.10611](http://arxiv.org/abs/2601.10611)|null|
 |**2026-01-15**|**Unleashing the Capabilities of Large Vision-Language Models for Intelligent Perception of Roadside Infrastructure**|Zhen Dong Team|[2601.10551](http://arxiv.org/abs/2601.10551)|null|
 |**2026-01-15**|**SVII-3D: Advancing Roadside Infrastructure Inventory with Decimeter-level 3D Localization and Comprehension from Sparse Street Imagery**|Bisheng Yang Team|[2601.10535](http://arxiv.org/abs/2601.10535)|null|

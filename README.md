@@ -1,4 +1,4 @@
-## Updated on 2026.01.15
+## Updated on 2026.01.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,6 +16,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-15**|**Combinatorial Optimization Augmented Machine Learning**|Axel Parmentier Team|[2601.10583](http://arxiv.org/abs/2601.10583)|null|
+|**2026-01-14**|**SyncTwin: Fast Digital Twin Construction and Synchronization for Safe Robotic Grasping**|Jiachen Li Team|[2601.09920](http://arxiv.org/abs/2601.09920)|null|
 |**2026-01-14**|**Sim2real Image Translation Enables Viewpoint-Robust Policies from Fixed-Camera Datasets**|Zsolt Kira Team|[2601.09605](http://arxiv.org/abs/2601.09605)|null|
 |**2026-01-14**|**Learning Whole-Body Human-Humanoid Interaction from Human-Human Demonstrations**|Wei-Shi Zheng Team|[2601.09518](http://arxiv.org/abs/2601.09518)|null|
 |**2026-01-14**|**A Canonical Internal Model for Disturbance Rejection for a Class of Nonlinear Systems Subject to Trigonometric-Polynomial Disturbances**|Jie Huang Team|[2601.09471](http://arxiv.org/abs/2601.09471)|null|
@@ -1695,12 +1697,26 @@
 |**2018-10-09**|**Robustness via Retrying: Closed-Loop Robotic Manipulation with Self-Supervised Learning**|Chelsea Finn Team|[1810.03043](http://arxiv.org/abs/1810.03043)|null|
 |**2017-10-27**|**Learning Robotic Manipulation of Granular Media**|Sergey Levine Team|[1709.02833](http://arxiv.org/abs/1709.02833)|null|
 
-<p align=right>(<a href=#updated-on-20260115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260116>back to top</a>)</p>
 
 ## VLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-15**|**Molmo2: Open Weights and Data for Vision-Language Models with Video Understanding and Grounding**|Ranjay Krishna Team|[2601.10611](http://arxiv.org/abs/2601.10611)|null|
+|**2026-01-15**|**Unleashing the Capabilities of Large Vision-Language Models for Intelligent Perception of Roadside Infrastructure**|Zhen Dong Team|[2601.10551](http://arxiv.org/abs/2601.10551)|null|
+|**2026-01-15**|**SVII-3D: Advancing Roadside Infrastructure Inventory with Decimeter-level 3D Localization and Comprehension from Sparse Street Imagery**|Bisheng Yang Team|[2601.10535](http://arxiv.org/abs/2601.10535)|null|
+|**2026-01-15**|**mergetune: Continued fine-tuning of vision-language models**|Josef Kittler Team|[2601.10497](http://arxiv.org/abs/2601.10497)|null|
+|**2026-01-15**|**Urban Socio-Semantic Segmentation with Vision-Language Reasoning**|Yansheng Li Team|[2601.10477](http://arxiv.org/abs/2601.10477)|null|
+|**2026-01-15**|**SurgGoal: Rethinking Surgical Planning Evaluation via Goal-Satisfiability**|Nassir Navab Team|[2601.10455](http://arxiv.org/abs/2601.10455)|null|
+|**2026-01-15**|**Global Context Compression with Interleaved Vision-Text Transformation**|Feng Huang Team|[2601.10378](http://arxiv.org/abs/2601.10378)|null|
+|**2026-01-15**|**Hierarchical Refinement of Universal Multimodal Attacks on Vision-Language Models**|Zi Huang Team|[2601.10313](http://arxiv.org/abs/2601.10313)|null|
+|**2026-01-15**|**V-Zero: Self-Improving Multimodal Reasoning with Zero Annotation**|Wei Chen Team|[2601.10094](http://arxiv.org/abs/2601.10094)|null|
+|**2026-01-15**|**The Spatial Blindspot of Vision-Language Models**|Bala Krishna S Vegesna Team|[2601.09954](http://arxiv.org/abs/2601.09954)|null|
+|**2026-01-14**|**MedVL-SAM2: A unified 3D medical vision-language model for multimodal reasoning and prompt-driven segmentation**|Kuang Gong Team|[2601.09879](http://arxiv.org/abs/2601.09879)|null|
+|**2026-01-14**|**Bears, all bears, and some bears. Language Constraints on Language Models' Inductive Inferences**|Kanishka Misra Team|[2601.09852](http://arxiv.org/abs/2601.09852)|null|
+|**2026-01-14**|**ViSIL: Unified Evaluation of Information Loss in Multimodal Video Captioning**|Sandeep Chinchali Team|[2601.09851](http://arxiv.org/abs/2601.09851)|null|
+|**2026-01-14**|**GUI-Eyes: Tool-Augmented Perception for Visual Grounding in GUI Agents**|Wu Liu Team|[2601.09770](http://arxiv.org/abs/2601.09770)|null|
 |**2026-01-14**|**Self-Supervised Animal Identification for Long Videos**|Neill Campbell Team|[2601.09663](http://arxiv.org/abs/2601.09663)|null|
 |**2026-01-14**|**LiteEmbed: Adapting CLIP to Rare Classes**|Vineet Gandhi Team|[2601.09661](http://arxiv.org/abs/2601.09661)|null|
 |**2026-01-14**|**Image2Garment: Simulation-ready Garment Generation from a Single Image**|Gordon Wetzstein Team|[2601.09658](http://arxiv.org/abs/2601.09658)|null|
@@ -4420,7 +4436,7 @@
 |**2024-04-19**|**VLP: A Survey on Vision-Language Pre-training**|Bo Xu Team|[2202.09061](http://arxiv.org/abs/2202.09061)|null|
 |**2022-10-07**|**Learning to Prompt for Vision-Language Models**|Ziwei Liu Team|[2109.01134](http://arxiv.org/abs/2109.01134)|null|
 
-<p align=right>(<a href=#updated-on-20260115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260116>back to top</a>)</p>
 
 ## VLA
 
@@ -5036,12 +5052,14 @@
 |**2022-08-16**|**A Dataset for Interactive Vision-Language Navigation with Unknown Command Feasibility**|Bryan A. Plummer Team|[2202.02312](http://arxiv.org/abs/2202.02312)|null|
 |**2017-04-25**|**An Analysis of Action Recognition Datasets for Language and Vision Tasks**|Frank Keller Team|[1704.07129](http://arxiv.org/abs/1704.07129)|null|
 
-<p align=right>(<a href=#updated-on-20260115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260116>back to top</a>)</p>
 
 ## Humanoid
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-15**|**FastStair: Learning to Run Up Stairs with Humanoid Robots**|Jie Zhao Team|[2601.10365](http://arxiv.org/abs/2601.10365)|null|
+|**2026-01-13**|**Heterogeneous computing platform for real-time robotics**|Steve Furber Team|[2601.09755](http://arxiv.org/abs/2601.09755)|null|
 |**2026-01-14**|**Learning Whole-Body Human-Humanoid Interaction from Human-Human Demonstrations**|Wei-Shi Zheng Team|[2601.09518](http://arxiv.org/abs/2601.09518)|null|
 |**2026-01-13**|**Generalizable Geometric Prior and Recurrent Spiking Feature Learning for Humanoid Robot Manipulation**|Miao Li Team|[2601.09031](http://arxiv.org/abs/2601.09031)|null|
 |**2026-01-12**|**WaveMan: mmWave-Based Room-Scale Human Interaction Perception for Humanoid Robots**|Jianfei Yang Team|[2601.07454](http://arxiv.org/abs/2601.07454)|null|
@@ -5370,7 +5388,7 @@
 |**2016-07-19**|**Design and implementation of computational platform for social-humanoid robot Lumen as an exhibition guide in Electrical Engineering Days 2015**|Ary Setijadi Prihatmanto Team|[1607.04763](http://arxiv.org/abs/1607.04763)|null|
 |**2016-11-18**|**Gaze Stabilization for Humanoid Robots: a Comprehensive Framework**|Lorenzo Natale Team|[1411.3525](http://arxiv.org/abs/1411.3525)|null|
 
-<p align=right>(<a href=#updated-on-20260115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260116>back to top</a>)</p>
 
 ## Dexterous
 
@@ -5600,5 +5618,5 @@
 |**2018-06-27**|**Learning Complex Dexterous Manipulation with Deep Reinforcement Learning and Demonstrations**|Sergey Levine Team|[1709.10087](http://arxiv.org/abs/1709.10087)|**[link](https://sites.google.com/view/deeprl-dexterous-manipulation)**|
 |**2017-03-21**|**Learning Dexterous Manipulation for a Soft Robotic Hand from Human Demonstration**|Pieter Abbeel Team|[1603.06348](http://arxiv.org/abs/1603.06348)|null|
 
-<p align=right>(<a href=#updated-on-20260115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260116>back to top</a>)</p>
 

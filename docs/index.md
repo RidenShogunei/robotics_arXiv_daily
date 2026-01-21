@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.01.20
+## Updated on 2026.01.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-18**|**ReWorld: Multi-Dimensional Reward Modeling for Embodied World Models**|Xin Jin Team|[2601.12428](http://arxiv.org/abs/2601.12428)|null|
+|**2026-01-18**|**Learning Diverse Skills for Behavior Models with Mixture of Experts**|Ziyang Meng Team|[2601.12397](http://arxiv.org/abs/2601.12397)|null|
+|**2026-01-17**|**BiKC+: Bimanual Hierarchical Imitation with Keypose-Conditioned Coordination-Aware Consistency Policies**|Jia PanI Team|[2601.12116](http://arxiv.org/abs/2601.12116)|null|
+|**2026-01-16**|**Risk-Aware Human-in-the-Loop Framework with Adaptive Intrusion Response for Autonomous Vehicles**|Jin-Hee Cho Team|[2601.11781](http://arxiv.org/abs/2601.11781)|null|
 |**2026-01-16**|**Generative Scenario Rollouts for End-to-End Autonomous Driving**|Hong Cai Team|[2601.11475](http://arxiv.org/abs/2601.11475)|null|
 |**2026-01-16**|**The Great March 100: 100 Detail-oriented Tasks for Evaluating Embodied AI Agents**|Yong-Lu Li Team|[2601.11421](http://arxiv.org/abs/2601.11421)|null|
 |**2026-01-16**|**The Mini Wheelbot Dataset: High-Fidelity Data for Robot Learning**|Sebastian Trimpe Team|[2601.11394](http://arxiv.org/abs/2601.11394)|null|
@@ -1700,6 +1704,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-18**|**MemeLens: Multilingual Multitask VLMs for Memes**|Firoj Alam Team|[2601.12539](http://arxiv.org/abs/2601.12539)|null|
+|**2026-01-18**|**Histopath-C: Towards Realistic Domain Shifts for Histopathology Vision-Language Adaptation**|Christian Desrosiers Team|[2601.12493](http://arxiv.org/abs/2601.12493)|null|
+|**2026-01-18**|**A Multimodal Assistive System for Product Localization and Retrieval for People who are Blind or have Low Vision**|John-Ross Rizzo Team|[2601.12486](http://arxiv.org/abs/2601.12486)|null|
+|**2026-01-18**|**NeuralFur: Animal Fur Reconstruction From Multi-View Images**|Justus Thies Team|[2601.12481](http://arxiv.org/abs/2601.12481)|**[link](https://neuralfur.is.tue.mpg.de)**|
+|**2026-01-18**|**Language-Based Swarm Perception: Decentralized Person Re-Identification via Natural Language Descriptions**|Mauro Birattari Team|[2601.12479](http://arxiv.org/abs/2601.12479)|null|
+|**2026-01-18**|**DCAC: Dynamic Class-Aware Cache Creates Stronger Out-of-Distribution Detectors**|Ruixuan Wang Team|[2601.12468](http://arxiv.org/abs/2601.12468)|null|
+|**2026-01-18**|**Adversarial Defense in Vision-Language Models: An Overview**|Lei Zhang Team|[2601.12443](http://arxiv.org/abs/2601.12443)|null|
+|**2026-01-18**|**System-Mediated Attention Imbalances Make Vision-Language Models Say Yes**|Vera Demberg Team|[2601.12430](http://arxiv.org/abs/2601.12430)|null|
+|**2026-01-18**|**CytoCLIP: Learning Cytoarchitectural Characteristics in Developing Human Brain Using Contrastive Language Image Pre-Training**|Mohanasankar Sivaprakasam Team|[2601.12282](http://arxiv.org/abs/2601.12282)|null|
+|**2026-01-18**|**Multimodal Generative Engine Optimization: Rank Manipulation for Vision-Language Model Rankers**|Xiyang Hu Team|[2601.12263](http://arxiv.org/abs/2601.12263)|null|
+|**2026-01-18**|**Less is More: Label-Guided Summarization of Procedural and Instructional Videos**|Carsten Eickhoff Team|[2601.12243](http://arxiv.org/abs/2601.12243)|null|
+|**2026-01-17**|**A multitask framework for automated interpretation of multi-frame right upper quadrant ultrasound in clinical decision support**|Harrison Bai Team|[2601.12174](http://arxiv.org/abs/2601.12174)|null|
+|**2026-01-17**|**Conditional Random Fields for Interactive Refinement of Histopathological Predictions**|Christophe De Vleeschouwer Team|[2601.12082](http://arxiv.org/abs/2601.12082)|null|
+|**2026-01-17**|**Less Is More -- Until It Breaks: Security Pitfalls of Vision Token Compression in Large Vision-Language Models**|Shirui Pan Team|[2601.12042](http://arxiv.org/abs/2601.12042)|null|
+|**2026-01-17**|**SMc2f: Robust Scenario Mining for Robotic Autonomy from Coarse to Fine**|Ross Greer Team|[2601.12010](http://arxiv.org/abs/2601.12010)|null|
+|**2026-01-17**|**AVIR: Adaptive Visual In-Document Retrieval for Efficient Multi-Page Document Question Answering**|Wenkang Ma Team|[2601.11976](http://arxiv.org/abs/2601.11976)|null|
+|**2026-01-17**|**A Training-Free Guess What Vision Language Model from Snippets to Open-Vocabulary Object Detection**|Lianlin Li Team|[2601.11910](http://arxiv.org/abs/2601.11910)|null|
+|**2026-01-16**|**RobotDesignGPT: Automated Robot Design Synthesis using Vision Language Models**|Sehoon Ha Team|[2601.11801](http://arxiv.org/abs/2601.11801)|null|
+|**2026-01-16**|**SemAlign: Language Guided Semi-supervised Domain Generalization**|Ranga Rodrigo Team|[2601.11724](http://arxiv.org/abs/2601.11724)|null|
 |**2026-01-16**|**ShapeR: Robust Conditional 3D Shape Generation from Casual Captures**|Jakob Engel Team|[2601.11514](http://arxiv.org/abs/2601.11514)|**[link](http://facebookresearch.github.io/ShapeR)**|
 |**2026-01-16**|**MHA2MLA-VLM: Enabling DeepSeek's Economical Multi-Head Latent Attention across Vision-Language Models**|Tao Gui Team|[2601.11464](http://arxiv.org/abs/2601.11464)|null|
 |**2026-01-16**|**ACoT-VLA: Action Chain-of-Thought for Vision-Language-Action Models**|Guanghui Ren Team|[2601.11404](http://arxiv.org/abs/2601.11404)|null|
@@ -4450,6 +4473,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-17**|**Listen, Look, Drive: Coupling Audio Instructions for User-aware VLA-based Autonomous Driving**|Sifa Zheng Team|[2601.12142](http://arxiv.org/abs/2601.12142)|null|
 |**2026-01-16**|**Generative Scenario Rollouts for End-to-End Autonomous Driving**|Hong Cai Team|[2601.11475](http://arxiv.org/abs/2601.11475)|null|
 |**2026-01-16**|**ACoT-VLA: Action Chain-of-Thought for Vision-Language-Action Models**|Guanghui Ren Team|[2601.11404](http://arxiv.org/abs/2601.11404)|null|
 |**2026-01-16**|**VLAgents: A Policy Server for Efficient VLA Inference**|Wolfram Burgard Team|[2601.11250](http://arxiv.org/abs/2601.11250)|null|
@@ -4459,7 +4483,7 @@ layout: default
 |**2026-01-12**|**Motion Focus Recognition in Fast-Moving Egocentric Video**|Abolfazl Razi Team|[2601.07154](http://arxiv.org/abs/2601.07154)|null|
 |**2026-01-11**|**PALM: Progress-Aware Policy Learning via Affordance Reasoning for Long-Horizon Robotic Manipulation**|Ismini Lourentzou Team|[2601.07060](http://arxiv.org/abs/2601.07060)|null|
 |**2026-01-13**|**On-the-Fly VLA Adaptation via Test-Time Reinforcement Learning**|Cheng Han Team|[2601.06748](http://arxiv.org/abs/2601.06748)|null|
-|**2026-01-10**|**SparseOccVLA: Bridging Occupancy and Vision-Language Models via Sparse Queries for Unified 4D Scene Understanding and Planning**|Yan Wang Team|[2601.06474](http://arxiv.org/abs/2601.06474)|null|
+|**2026-01-17**|**SparseOccVLA: Bridging Occupancy and Vision-Language Models via Sparse Queries for Unified 4D Scene Understanding and Planning**|Yan Wang Team|[2601.06474](http://arxiv.org/abs/2601.06474)|null|
 |**2026-01-10**|**CulinaryCut-VLAP: A Vision-Language-Action-Physics Framework for Food Cutting via a Force-Aware Material Point Method**|Heewon Kim Team|[2601.06451](http://arxiv.org/abs/2601.06451)|null|
 |**2026-01-09**|**LatentVLA: Efficient Vision-Language Models for Autonomous Driving via Latent Action Prediction**|Hongyang Li Team|[2601.05611](http://arxiv.org/abs/2601.05611)|null|
 |**2026-01-08**|**LaST $_{0}$ : Latent Spatio-Temporal Chain-of-Thought for Robotic Vision-Language-Action Model**|Shanghang Zhang Team|[2601.05248](http://arxiv.org/abs/2601.05248)|null|

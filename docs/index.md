@@ -1714,6 +1714,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-21**|**Towards Understanding Best Practices for Quantization of Vision-Language Models**|Matthew Gwilliam Team|[2601.15287](http://arxiv.org/abs/2601.15287)|null|
+|**2026-01-21**|**Iterative Refinement Improves Compositional Image Generation**|Deepak Pathak Team|[2601.15286](http://arxiv.org/abs/2601.15286)|**[link](https://iterative-img-gen.github.io/)**|
 |**2026-01-21**|**PROGRESSLM: Towards Progress Reasoning in Vision-Language Models**|Han Liu Team|[2601.15224](http://arxiv.org/abs/2601.15224)|**[link](https://progresslm.github.io/ProgressLM/)**|
 |**2026-01-21**|**Training-Free and Interpretable Hateful Video Detection via Multi-stage Adversarial Reasoning**|Zeyu Fu Team|[2601.15115](http://arxiv.org/abs/2601.15115)|null|
 |**2026-01-21**|**Unified Multi-Dataset Training for TBPS**|Brejesh Lall Team|[2601.14978](http://arxiv.org/abs/2601.14978)|null|

@@ -1,4 +1,4 @@
-## Updated on 2026.01.25
+## Updated on 2026.01.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,6 +16,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-23**|**Boosting Deep Reinforcement Learning with Semantic Knowledge for Robotic Manipulators**|Daniele Nardi Team|[2601.16866](http://arxiv.org/abs/2601.16866)|null|
+|**2026-01-23**|**Sim-to-Real Transfer via a Style-Identified Cycle Consistent Generative Adversarial Network: Zero-Shot Deployment on Robotic Manipulators through Visual Domain Adaptation**|Álvaro Jesús López-López Team|[2601.16677](http://arxiv.org/abs/2601.16677)|null|
+|**2026-01-23**|**ReWeaver: Towards Simulation-Ready and Topology-Accurate Garment Reconstruction**|Xiangru Huang Team|[2601.16672](http://arxiv.org/abs/2601.16672)|null|
+|**2026-01-23**|**ReViP: Reducing False Completion in Vision-Language-Action Models with Vision-Proprioception Rebalance**|Wei-Shi Zheng Team|[2601.16667](http://arxiv.org/abs/2601.16667)|null|
+|**2026-01-22**|**Scalable Screw-Theoretic Synthesis for PDE-Based Dynamic Modeling of Multibody Flexible Manipulators**|J. Mattila Team|[2601.16242](http://arxiv.org/abs/2601.16242)|null|
 |**2026-01-22**|**DTP: A Simple yet Effective Distracting Token Pruning Framework for Vision-Language Action Models**|Jingqun Tang Team|[2601.16065](http://arxiv.org/abs/2601.16065)|null|
 |**2026-01-22**|**Off-Policy Actor-Critic with Sigmoid-Bounded Entropy for Real-World Robot Learning**|Shu Zhang Team|[2601.15761](http://arxiv.org/abs/2601.15761)|null|
 |**2026-01-21**|**CompliantVLA-adaptor: VLM-Guided Variable Impedance Action for Safe Contact-Rich Manipulation**|Arash Ajoudani Team|[2601.15541](http://arxiv.org/abs/2601.15541)|null|
@@ -1720,12 +1725,18 @@
 |**2018-10-09**|**Robustness via Retrying: Closed-Loop Robotic Manipulation with Self-Supervised Learning**|Chelsea Finn Team|[1810.03043](http://arxiv.org/abs/1810.03043)|null|
 |**2017-10-27**|**Learning Robotic Manipulation of Granular Media**|Sergey Levine Team|[1709.02833](http://arxiv.org/abs/1709.02833)|null|
 
-<p align=right>(<a href=#updated-on-20260125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
 
 ## VLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-23**|**VisGym: Diverse, Customizable, Scalable Environments for Multimodal Agents**|Joseph E. Gonzalez Team|[2601.16973](http://arxiv.org/abs/2601.16973)|**[link](https://visgym.github.io/)**|
+|**2026-01-23**|**Evaluating Large Vision-language Models for Surgical Tool Detection**|Cristian A. Linte Team|[2601.16895](http://arxiv.org/abs/2601.16895)|null|
+|**2026-01-23**|**X-Aligner: Composed Visual Retrieval without the Bells and Whistles**|Mariana-Iuliana Georgescu Team|[2601.16582](http://arxiv.org/abs/2601.16582)|null|
+|**2026-01-23**|**LLM is Not All You Need: A Systematic Evaluation of ML vs. Foundation Models for text and image based Medical Classification**|Dhvani Upadhyay Team|[2601.16549](http://arxiv.org/abs/2601.16549)|null|
+|**2026-01-23**|**AlphaFace: High Fidelity and Real-time Face Swapper Robust to Facial Pose**|Jinhong Yang Team|[2601.16429](http://arxiv.org/abs/2601.16429)|null|
+|**2026-01-23**|**Gen-DBA: Generative Database Agents (Towards a Move 37 for Databases)**|Walid G. Aref Team|[2601.16409](http://arxiv.org/abs/2601.16409)|null|
 |**2026-01-22**|**Point Bridge: 3D Representations for Cross Domain Policy Learning**|Ajay Mandlekar Team|[2601.16212](http://arxiv.org/abs/2601.16212)|null|
 |**2026-01-22**|**Multimodal Climate Disinformation Detection: Integrating Vision-Language Models with External Knowledge Sources**|Hamed Ghodrati Team|[2601.16108](http://arxiv.org/abs/2601.16108)|null|
 |**2026-01-22**|**DTP: A Simple yet Effective Distracting Token Pruning Framework for Vision-Language Action Models**|Jingqun Tang Team|[2601.16065](http://arxiv.org/abs/2601.16065)|null|
@@ -4545,12 +4556,14 @@
 |**2024-04-19**|**VLP: A Survey on Vision-Language Pre-training**|Bo Xu Team|[2202.09061](http://arxiv.org/abs/2202.09061)|null|
 |**2022-10-07**|**Learning to Prompt for Vision-Language Models**|Ziwei Liu Team|[2109.01134](http://arxiv.org/abs/2109.01134)|null|
 
-<p align=right>(<a href=#updated-on-20260125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
 
 ## VLA
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-23**|**ReViP: Reducing False Completion in Vision-Language-Action Models with Vision-Proprioception Rebalance**|Wei-Shi Zheng Team|[2601.16667](http://arxiv.org/abs/2601.16667)|null|
+|**2026-01-23**|**Gen-DBA: Generative Database Agents (Towards a Move 37 for Databases)**|Walid G. Aref Team|[2601.16409](http://arxiv.org/abs/2601.16409)|null|
 |**2026-01-22**|**IVRA: Improving Visual-Token Relations for Robot Action Policy with Training-Free Hint-Based Guidance**|Michael S Ryoo Team|[2601.16207](http://arxiv.org/abs/2601.16207)|null|
 |**2026-01-22**|**Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning**|Jinwei Gu Team|[2601.16163](http://arxiv.org/abs/2601.16163)|null|
 |**2026-01-22**|**DTP: A Simple yet Effective Distracting Token Pruning Framework for Vision-Language Action Models**|Jingqun Tang Team|[2601.16065](http://arxiv.org/abs/2601.16065)|null|
@@ -5177,7 +5190,7 @@
 |**2022-08-16**|**A Dataset for Interactive Vision-Language Navigation with Unknown Command Feasibility**|Bryan A. Plummer Team|[2202.02312](http://arxiv.org/abs/2202.02312)|null|
 |**2017-04-25**|**An Analysis of Action Recognition Datasets for Language and Vision Tasks**|Frank Keller Team|[1704.07129](http://arxiv.org/abs/1704.07129)|null|
 
-<p align=right>(<a href=#updated-on-20260125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
 
 ## Humanoid
 
@@ -5519,14 +5532,14 @@
 |**2016-07-19**|**Design and implementation of computational platform for social-humanoid robot Lumen as an exhibition guide in Electrical Engineering Days 2015**|Ary Setijadi Prihatmanto Team|[1607.04763](http://arxiv.org/abs/1607.04763)|null|
 |**2016-11-18**|**Gaze Stabilization for Humanoid Robots: a Comprehensive Framework**|Lorenzo Natale Team|[1411.3525](http://arxiv.org/abs/1411.3525)|null|
 
-<p align=right>(<a href=#updated-on-20260125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
 
 ## Dexterous
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2026-01-21**|**CADGrasp: Learning Contact and Collision Aware General Dexterous Grasping in Cluttered Scenes**|Hao Dong Team|[2601.15039](http://arxiv.org/abs/2601.15039)|null|
-|**2026-01-16**|**Where to Touch, How to Contact: Hierarchical RL-MPC Framework for Geometry-Aware Long-Horizon Dexterous Manipulation**|Wanxin Jin Team|[2601.10930](http://arxiv.org/abs/2601.10930)|null|
+|**2026-01-23**|**Where to Touch, How to Contact: Hierarchical RL-MPC Framework for Geometry-Aware Long-Horizon Dexterous Manipulation**|Wanxin Jin Team|[2601.10930](http://arxiv.org/abs/2601.10930)|null|
 |**2026-01-13**|**FSAG: Enhancing Human-to-Dexterous-Hand Finger-Specific Affordance Grounding via Diffusion Models**|Wenzhao Lian Team|[2601.08246](http://arxiv.org/abs/2601.08246)|null|
 |**2026-01-12**|**Stable In-hand Manipulation for a Lightweight Four-motor Prosthetic Hand**|Masashi Hamaya Team|[2601.07559](http://arxiv.org/abs/2601.07559)|null|
 |**2026-01-09**|**DexterCap: An Affordable and Automated System for Capturing Dexterous Hand-Object Manipulation**|Libin Liu Team|[2601.05844](http://arxiv.org/abs/2601.05844)|null|
@@ -5751,5 +5764,5 @@
 |**2018-06-27**|**Learning Complex Dexterous Manipulation with Deep Reinforcement Learning and Demonstrations**|Sergey Levine Team|[1709.10087](http://arxiv.org/abs/1709.10087)|**[link](https://sites.google.com/view/deeprl-dexterous-manipulation)**|
 |**2017-03-21**|**Learning Dexterous Manipulation for a Soft Robotic Hand from Human Demonstration**|Pieter Abbeel Team|[1603.06348](http://arxiv.org/abs/1603.06348)|null|
 
-<p align=right>(<a href=#updated-on-20260125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
 

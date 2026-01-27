@@ -16,6 +16,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-26**|**Advances and Innovations in the Multi-Agent Robotic System (MARS) Challenge**|Luc Van Gool Team|[2601.18733](http://arxiv.org/abs/2601.18733)|**[link](https://mars-eai.github.io/MARS-Challenge-Webpage/)**|
+|**2026-01-26**|**Trustworthy Evaluation of Robotic Manipulation: A New Benchmark and AutoEval Methods**|Hong Liu Team|[2601.18723](http://arxiv.org/abs/2601.18723)|null|
+|**2026-01-26**|**A Pragmatic VLA Foundation Model**|Kecheng Zheng Team|[2601.18692](http://arxiv.org/abs/2601.18692)|**[link](https://technology.robbyant.com/lingbot-vla/)**|
+|**2026-01-26**|**ExoGS: A 4D Real-to-Sim-to-Real Framework for Scalable Manipulation Data Collection**|Hao-Shu Fang Team|[2601.18629](http://arxiv.org/abs/2601.18629)|null|
 |**2026-01-25**|**Masked Depth Modeling for Spatial Perception**|Nan Xue Team|[2601.17895](http://arxiv.org/abs/2601.17895)|null|
 |**2026-01-25**|**Less Is More: Scalable Visual Navigation from Limited Data**|Marco Hutter Team|[2601.17815](http://arxiv.org/abs/2601.17815)|null|
 |**2026-01-24**|**Towards Generalisable Imitation Learning Through Conditioned Transition Estimation and Online Behaviour Alignment**|Odinaldo Rodrigues Team|[2601.17563](http://arxiv.org/abs/2601.17563)|null|
@@ -1740,6 +1744,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-26**|**Goal-oriented Communication for Fast and Robust Robotic Fault Detection and Recovery**|Yansha Deng Team|[2601.18765](http://arxiv.org/abs/2601.18765)|null|
+|**2026-01-26**|**Why Keep Your Doubts to Yourself? Trading Visual Uncertainties in Multi-Agent Bandit Systems**|Keze Wang Team|[2601.18735](http://arxiv.org/abs/2601.18735)|null|
+|**2026-01-26**|**Advances and Innovations in the Multi-Agent Robotic System (MARS) Challenge**|Luc Van Gool Team|[2601.18733](http://arxiv.org/abs/2601.18733)|**[link](https://mars-eai.github.io/MARS-Challenge-Webpage/)**|
+|**2026-01-26**|**Are Video Generation Models Geographically Fair? An Attraction-Centric Evaluation of Global Visual Knowledge**|Jiawei Zhang Team|[2601.18698](http://arxiv.org/abs/2601.18698)|null|
+|**2026-01-26**|**DisasterInsight: A Multimodal Benchmark for Function-Aware and Grounded Disaster Assessment**|Michael Felsberg Team|[2601.18493](http://arxiv.org/abs/2601.18493)|null|
+|**2026-01-26**|**SG-CADVLM: A Context-Aware Decoding Powered Vision Language Model for Safety-Critical Scenario Generation**|Ziyuan Pu Team|[2601.18442](http://arxiv.org/abs/2601.18442)|null|
+|**2026-01-26**|**ARMOR: Agentic Reasoning for Methods Orchestration and Reparameterization for Robust Adversarial Attacks**|Konstantinos N. Plataniotis Team|[2601.18386](http://arxiv.org/abs/2601.18386)|null|
+|**2026-01-26**|**Making medical vision-language models think causally across modalities with retrieval-augmented cross-modal reasoning**|Tingbo Zhang Team|[2601.18356](http://arxiv.org/abs/2601.18356)|null|
+|**2026-01-26**|**Beyond Rigid: Benchmarking Non-Rigid Video Editing**|Min Zhang Team|[2601.18340](http://arxiv.org/abs/2601.18340)|null|
+|**2026-01-26**|**TC-IDM: Grounding Video Generation for Executable Zero-shot Robot Motion**|Jian Tang Team|[2601.18323](http://arxiv.org/abs/2601.18323)|null|
+|**2026-01-26**|**Vision-Language-Model-Guided Differentiable Ray Tracing for Fast and Accurate Multi-Material RF Parameter Estimation**|Jihong Park Team|[2601.18242](http://arxiv.org/abs/2601.18242)|null|
+|**2026-01-26**|**GAIA: A Data Flywheel System for Training GUI Test-Time Scaling Critic Models**|Jian Luan Team|[2601.18197](http://arxiv.org/abs/2601.18197)|null|
+|**2026-01-26**|**Spatial-Conditioned Reasoning in Long-Egocentric Videos**|Abolfazl Razi Team|[2601.18100](http://arxiv.org/abs/2601.18100)|null|
+|**2026-01-26**|**Grounded Concreteness: Human-Like Concreteness Sensitivity in Vision-Language Models**|Christopher J. MacLellan Team|[2601.18065](http://arxiv.org/abs/2601.18065)|null|
 |**2026-01-25**|**RemEdit: Efficient Diffusion Editing with Riemannian Geometry**|Brian D. Davison Team|[2601.17927](http://arxiv.org/abs/2601.17927)|null|
 |**2026-01-25**|**Benchmarking Direct Preference Optimization for Medical Large Vision-Language Models**|Jaewoo Kang Team|[2601.17918](http://arxiv.org/abs/2601.17918)|null|
 |**2026-01-25**|**RAICL: Retrieval-Augmented In-Context Learning for Vision-Language-Model Based EEG Seizure Detection**|Dongrui Wu Team|[2601.17844](http://arxiv.org/abs/2601.17844)|null|
@@ -4586,6 +4604,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-26**|**Trustworthy Evaluation of Robotic Manipulation: A New Benchmark and AutoEval Methods**|Hong Liu Team|[2601.18723](http://arxiv.org/abs/2601.18723)|null|
+|**2026-01-26**|**A Pragmatic VLA Foundation Model**|Kecheng Zheng Team|[2601.18692](http://arxiv.org/abs/2601.18692)|**[link](https://technology.robbyant.com/lingbot-vla/)**|
+|**2026-01-26**|**TC-IDM: Grounding Video Generation for Executable Zero-shot Robot Motion**|Jian Tang Team|[2601.18323](http://arxiv.org/abs/2601.18323)|null|
 |**2026-01-25**|**PEAfowl: Perception-Enhanced Multi-View Vision-Language-Action for Bimanual Manipulation**|Xun Cao Team|[2601.17885](http://arxiv.org/abs/2601.17885)|null|
 |**2026-01-25**|**SPACE-CLIP: Spatial Perception via Adaptive CLIP Embeddings for Monocular Depth Estimation**|Andrew Jaeyong Choi Team|[2601.17657](http://arxiv.org/abs/2601.17657)|null|
 |**2026-01-23**|**ReViP: Reducing False Completion in Vision-Language-Action Models with Vision-Proprioception Rebalance**|Wei-Shi Zheng Team|[2601.16667](http://arxiv.org/abs/2601.16667)|null|
@@ -5567,6 +5588,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-26**|**Grasp-and-Lift: Executable 3D Hand-Object Interaction Reconstruction via Physics-in-the-Loop Optimization**|Jongwoo Lim Team|[2601.18121](http://arxiv.org/abs/2601.18121)|null|
 |**2026-01-24**|**PILOT: A Perceptive Integrated Low-level Controller for Loco-manipulation over Unstructured Scenes**|Hesheng Wang Team|[2601.17440](http://arxiv.org/abs/2601.17440)|null|
 |**2026-01-21**|**CADGrasp: Learning Contact and Collision Aware General Dexterous Grasping in Cluttered Scenes**|Hao Dong Team|[2601.15039](http://arxiv.org/abs/2601.15039)|null|
 |**2026-01-23**|**Where to Touch, How to Contact: Hierarchical RL-MPC Framework for Geometry-Aware Long-Horizon Dexterous Manipulation**|Wanxin Jin Team|[2601.10930](http://arxiv.org/abs/2601.10930)|null|

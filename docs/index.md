@@ -1740,6 +1740,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-27**|**EgoHandICL: Egocentric 3D Hand Reconstruction with In-Context Learning**|Pheng-Ann Heng Team|[2601.19850](http://arxiv.org/abs/2601.19850)|**[link](https://github.com/Nicous20/EgoHandICL)**|
+|**2026-01-27**|**Youtu-VL: Unleashing Visual Potential via Unified Vision-Language Supervision**|Xiaotian Li Team|[2601.19798](http://arxiv.org/abs/2601.19798)|null|
+|**2026-01-27**|**Physics-Aware Novel-View Acoustic Synthesis with Vision-Language Priors and 3D Acoustic Environment Modeling**|Wenwu Wang Team|[2601.19712](http://arxiv.org/abs/2601.19712)|**[link](https://physnvas.github.io/)**|
 |**2026-01-27**|**KeepLoRA: Continual Learning with Residual Gradient Adaptation**|Min-Ling Zhang Team|[2601.19659](http://arxiv.org/abs/2601.19659)|null|
 |**2026-01-27**|**ScenePilot-Bench: A Large-Scale Dataset and Benchmark for Evaluation of Vision-Language Models in Autonomous Driving**|Hong Chen Team|[2601.19582](http://arxiv.org/abs/2601.19582)|null|
 |**2026-01-27**|**Automated Safety Benchmarking: A Multi-agent Pipeline for LVLMs**|Wei Sun Team|[2601.19507](http://arxiv.org/abs/2601.19507)|null|

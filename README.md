@@ -1760,6 +1760,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-28**|**Open-Vocabulary Functional 3D Human-Scene Interaction Generation**|Yan Zhang Team|[2601.20835](http://arxiv.org/abs/2601.20835)|null|
 |**2026-01-28**|**bi-modal textual prompt learning for vision-language models in remote sensing**|Biplab Banerjee Team|[2601.20675](http://arxiv.org/abs/2601.20675)|null|
 |**2026-01-28**|**Investigating the Development of Task-Oriented Communication in Vision-Language Models**|Ron Meir Team|[2601.20641](http://arxiv.org/abs/2601.20641)|null|
 |**2026-01-28**|**SketchDynamics: Exploring Free-Form Sketches for Dynamic Intent Expression in Animation Generation**|Hongbo Fu Team|[2601.20622](http://arxiv.org/abs/2601.20622)|null|

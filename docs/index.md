@@ -9,6 +9,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-29**|**mjlab: A Lightweight Framework for GPU-Accelerated Robot Learning**|Pieter Abbeel Team|[2601.22074](http://arxiv.org/abs/2601.22074)|**[link](https://github.com/mujocolab/mjlab)**|
+|**2026-01-29**|**PocketDP3: Efficient Pocket-Scale 3D Visuomotor Policy**|Jie Me Team|[2601.22018](http://arxiv.org/abs/2601.22018)|null|
+|**2026-01-29**|**Causal World Modeling for Robot Control**|Yinghao Xu Team|[2601.21998](http://arxiv.org/abs/2601.21998)|**[link](https://technology.robbyant.com/lingbot-va)**|
+|**2026-01-29**|**MoE-ACT: Improving Surgical Imitation Learning Policies through Supervised Mixture-of-Experts**|Stefanie Speidel Team|[2601.21971](http://arxiv.org/abs/2601.21971)|null|
+|**2026-01-29**|**Information Filtering via Variational Regularization for Robot Manipulation**|Jie Me Team|[2601.21926](http://arxiv.org/abs/2601.21926)|null|
 |**2026-01-29**|**When does predictive inverse dynamics outperform behavior cloning?**|Sergio Valcarcel Macua Team|[2601.21718](http://arxiv.org/abs/2601.21718)|null|
 |**2026-01-29**|**Spotlighting Task-Relevant Features: Object-Centric Representations for Better Generalization in Robotic Manipulation**|Liming Chen Team|[2601.21416](http://arxiv.org/abs/2601.21416)|null|
 |**2026-01-29**|**Towards Space-Based Environmentally-Adaptive Grasping**|Aleksandr Artemov Team|[2601.21394](http://arxiv.org/abs/2601.21394)|null|
@@ -1755,6 +1760,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-29**|**Do VLMs Perceive or Recall? Probing Visual Perception vs. Memory with Classic Visual Illusions**|Serena Yeung-Levy Team|[2601.22150](http://arxiv.org/abs/2601.22150)|**[link](https://sites.google.com/view/vi-probe/)**|
+|**2026-01-29**|**SINA: A Circuit Schematic Image-to-Netlist Generator Using Artificial Intelligence**|Morteza Fayazi Team|[2601.22114](http://arxiv.org/abs/2601.22114)|null|
+|**2026-01-29**|**VTC-R1: Vision-Text Compression for Efficient Long-Context Reasoning**|Dacheng Tao Team|[2601.22069](http://arxiv.org/abs/2601.22069)|**[link](https://github.com/w-yibo/VTC-R1)**|
+|**2026-01-29**|**Clarity: The Flexibility-Interpretability Trade-Off in Sparsity-aware Concept Bottleneck Models**|Diego Marcos Team|[2601.21944](http://arxiv.org/abs/2601.21944)|null|
+|**2026-01-29**|**Mil-SCORE: Benchmarking Long-Context Geospatial Reasoning and Planning in Large Language Models**|Xiaomin Lin Team|[2601.21826](http://arxiv.org/abs/2601.21826)|null|
+|**2026-01-29**|**MMFineReason: Closing the Multimodal Reasoning Gap via Open Data-Centric Methods**|Lijun Wu Team|[2601.21821](http://arxiv.org/abs/2601.21821)|null|
+|**2026-01-29**|**Moral Outrage Shapes Commitments Beyond Attention: Multimodal Moral Emotions on YouTube in Korea and the US**|Wonjae Lee Team|[2601.21815](http://arxiv.org/abs/2601.21815)|null|
+|**2026-01-29**|**Knowledge Vector Weakening: Efficient Training-free Unlearning for Large Vision-Language Models**|Junsuk Choe Team|[2601.21794](http://arxiv.org/abs/2601.21794)|null|
 |**2026-01-29**|**Epistemic Uncertainty Quantification for Pre-trained VLMs via Riemannian Flow Matching**|Prashant Singh Team|[2601.21662](http://arxiv.org/abs/2601.21662)|null|
 |**2026-01-29**|**OCRVerse: Towards Holistic OCR in End-to-End Vision-Language Models**|Zhixiong Zeng Team|[2601.21639](http://arxiv.org/abs/2601.21639)|null|
 |**2026-01-29**|**PathReasoner-R1: Instilling Structured Reasoning into Pathology Vision-Language Model via Knowledge-Guided Policy Optimization**|Yongbing Zhang Team|[2601.21617](http://arxiv.org/abs/2601.21617)|null|
@@ -4655,6 +4668,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-29**|**DynamicVLA: A Vision-Language-Action Model for Dynamic Object Manipulation**|Ziwei Liu Team|[2601.22153](http://arxiv.org/abs/2601.22153)|**[link](https://www.infinitescript.com/project/dynamic-vla/)**|
+|**2026-01-29**|**MoE-ACT: Improving Surgical Imitation Learning Policies through Supervised Mixture-of-Experts**|Stefanie Speidel Team|[2601.21971](http://arxiv.org/abs/2601.21971)|null|
 |**2026-01-29**|**CoFreeVLA: Collision-Free Dual-Arm Manipulation via Vision-Language-Action Model and Risk Estimation**|Yaohua Liu Team|[2601.21712](http://arxiv.org/abs/2601.21712)|null|
 |**2026-01-29**|**AIR-VLA: Vision-Language-Action Systems for Aerial Manipulation**|Yonglin Tian Team|[2601.21602](http://arxiv.org/abs/2601.21602)|null|
 |**2026-01-29**|**IROS: A Dual-Process Architecture for Real-Time VLM-Based Indoor Navigation**|Jeonggil Ko Team|[2601.21506](http://arxiv.org/abs/2601.21506)|null|

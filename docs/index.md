@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.01.29
+## Updated on 2026.01.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-29**|**When does predictive inverse dynamics outperform behavior cloning?**|Sergio Valcarcel Macua Team|[2601.21718](http://arxiv.org/abs/2601.21718)|null|
+|**2026-01-29**|**Spotlighting Task-Relevant Features: Object-Centric Representations for Better Generalization in Robotic Manipulation**|Liming Chen Team|[2601.21416](http://arxiv.org/abs/2601.21416)|null|
+|**2026-01-29**|**Towards Space-Based Environmentally-Adaptive Grasping**|Aleksandr Artemov Team|[2601.21394](http://arxiv.org/abs/2601.21394)|null|
+|**2026-01-29**|**Abstracting Robot Manipulation Skills via Mixture-of-Experts Diffusion Policies**|Harold Soh Team|[2601.21251](http://arxiv.org/abs/2601.21251)|null|
 |**2026-01-28**|**Learning From a Steady Hand: A Weakly Supervised Agent for Robot Assistance under Microscopy**|Christos Bergeles Team|[2601.20776](http://arxiv.org/abs/2601.20776)|null|
 |**2026-01-28**|**Vibro-Sense: Robust Vibration-based Impulse Response Localization and Trajectory Tracking for Robotic Hands**|Nicolás Navarro-Guerrero Team|[2601.20555](http://arxiv.org/abs/2601.20555)|null|
 |**2026-01-28**|**Advancing Open-source World Models**|Hao Ouyang Team|[2601.20540](http://arxiv.org/abs/2601.20540)|**[link](https://technology.robbyant.com/lingbot-world)**|
@@ -21,7 +25,7 @@ layout: default
 |**2026-01-27**|**Just in time Informed Trees: Manipulability-Aware Asymptotically Optimized Motion Planning**|Luis Figueredo Team|[2601.19972](http://arxiv.org/abs/2601.19972)|null|
 |**2026-01-27**|**NeuroAI and Beyond**|Terrence Sejnowski Team|[2601.19955](http://arxiv.org/abs/2601.19955)|null|
 |**2026-01-27**|**AC^2-VLA: Action-Context-Aware Adaptive Computation in Vision-Language-Action Models for Efficient Robotic Manipulation**|Lei Zhu Team|[2601.19634](http://arxiv.org/abs/2601.19634)|null|
-|**2026-01-27**|**ALRM: Agentic LLM for Robotic Manipulation**|Hakim Hacid Team|[2601.19510](http://arxiv.org/abs/2601.19510)|null|
+|**2026-01-29**|**ALRM: Agentic LLM for Robotic Manipulation**|Hakim Hacid Team|[2601.19510](http://arxiv.org/abs/2601.19510)|null|
 |**2026-01-27**|**Task-Centric Policy Optimization from Misaligned Motion Priors**|Shentao Qin Team|[2601.19411](http://arxiv.org/abs/2601.19411)|null|
 |**2026-01-27**|**Sim-and-Human Co-training for Data-Efficient and Generalizable Robotic Manipulation**|Heng Tao Shen Team|[2601.19406](http://arxiv.org/abs/2601.19406)|null|
 |**2026-01-26**|**DeFM: Learning Foundation Representations from Depth for Robotics**|Marco Hutter Team|[2601.18923](http://arxiv.org/abs/2601.18923)|null|
@@ -1751,13 +1755,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-29**|**Epistemic Uncertainty Quantification for Pre-trained VLMs via Riemannian Flow Matching**|Prashant Singh Team|[2601.21662](http://arxiv.org/abs/2601.21662)|null|
+|**2026-01-29**|**OCRVerse: Towards Holistic OCR in End-to-End Vision-Language Models**|Zhixiong Zeng Team|[2601.21639](http://arxiv.org/abs/2601.21639)|null|
+|**2026-01-29**|**PathReasoner-R1: Instilling Structured Reasoning into Pathology Vision-Language Model via Knowledge-Guided Policy Optimization**|Yongbing Zhang Team|[2601.21617](http://arxiv.org/abs/2601.21617)|null|
+|**2026-01-29**|**WMVLM: Evaluating Diffusion Model Image Watermarking via Vision-Language Models**|Nenghai Yu Team|[2601.21610](http://arxiv.org/abs/2601.21610)|null|
+|**2026-01-29**|**On the Adversarial Robustness of Large Vision-Language Models under Visual Token Compression**|Haibo Hu Team|[2601.21531](http://arxiv.org/abs/2601.21531)|null|
+|**2026-01-29**|**IROS: A Dual-Process Architecture for Real-Time VLM-Based Indoor Navigation**|Jeonggil Ko Team|[2601.21506](http://arxiv.org/abs/2601.21506)|null|
+|**2026-01-29**|**DSCD-Nav: Dual-Stance Cooperative Debate for Object Navigation**|Cheng Deng Team|[2601.21409](http://arxiv.org/abs/2601.21409)|null|
+|**2026-01-29**|**GeoRC: A Benchmark for Geolocation Reasoning Chains**|James Hays Team|[2601.21278](http://arxiv.org/abs/2601.21278)|null|
+|**2026-01-29**|**Thinker: A vision-language foundation model for embodied intelligence**|Jichao Jiao Team|[2601.21199](http://arxiv.org/abs/2601.21199)|null|
+|**2026-01-29**|**FRISM: Fine-Grained Reasoning Injection via Subspace-Level Model Merging for Vision-Language Models**|Tao Chen Team|[2601.21187](http://arxiv.org/abs/2601.21187)|null|
+|**2026-01-28**|**Towards Mitigating Modality Bias in Vision-Language Models for Temporal Action Localization**|Yu Guan Team|[2601.21078](http://arxiv.org/abs/2601.21078)|null|
+|**2026-01-28**|**Thinking in Frames: How Visual Context and Test-Time Scaling Empower Video Reasoning**|Anna Korhonen Team|[2601.21037](http://arxiv.org/abs/2601.21037)|null|
 |**2026-01-28**|**Open-Vocabulary Functional 3D Human-Scene Interaction Generation**|Yan Zhang Team|[2601.20835](http://arxiv.org/abs/2601.20835)|null|
 |**2026-01-28**|**bi-modal textual prompt learning for vision-language models in remote sensing**|Biplab Banerjee Team|[2601.20675](http://arxiv.org/abs/2601.20675)|null|
 |**2026-01-28**|**Investigating the Development of Task-Oriented Communication in Vision-Language Models**|Ron Meir Team|[2601.20641](http://arxiv.org/abs/2601.20641)|null|
 |**2026-01-28**|**SketchDynamics: Exploring Free-Form Sketches for Dynamic Intent Expression in Animation Generation**|Hongbo Fu Team|[2601.20622](http://arxiv.org/abs/2601.20622)|null|
 |**2026-01-28**|**DeepSeek-OCR 2: Visual Causal Flow**|Yukun Li Team|[2601.20552](http://arxiv.org/abs/2601.20552)|null|
 |**2026-01-28**|**AnomalyVFM -- Transforming Vision Foundation Models into Zero-Shot Anomaly Detectors**|Danijel Skočaj Team|[2601.20524](http://arxiv.org/abs/2601.20524)|null|
-|**2026-01-28**|**MARE: Multimodal Alignment and Reinforcement for Explainable Deepfake Detection via Vision-Language Models**|Jiantao Zhou Team|[2601.20433](http://arxiv.org/abs/2601.20433)|null|
+|**2026-01-29**|**MARE: Multimodal Alignment and Reinforcement for Explainable Deepfake Detection via Vision-Language Models**|Jiantao Zhou Team|[2601.20433](http://arxiv.org/abs/2601.20433)|null|
 |**2026-01-28**|**Let's Roll a BiFTA: Bi-refinement for Fine-grained Text-visual Alignment in Vision-Language Models**|Feng Liu Team|[2601.20419](http://arxiv.org/abs/2601.20419)|null|
 |**2026-01-28**|**TABED: Test-Time Adaptive Ensemble Drafting for Robust Speculative Decoding in LVLMs**|Kangwook Lee Team|[2601.20357](http://arxiv.org/abs/2601.20357)|null|
 |**2026-01-28**|**Physically Guided Visual Mass Estimation from a Single RGB Image**|Kwang In Kim Team|[2601.20303](http://arxiv.org/abs/2601.20303)|null|
@@ -4639,6 +4655,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-29**|**CoFreeVLA: Collision-Free Dual-Arm Manipulation via Vision-Language-Action Model and Risk Estimation**|Yaohua Liu Team|[2601.21712](http://arxiv.org/abs/2601.21712)|null|
+|**2026-01-29**|**AIR-VLA: Vision-Language-Action Systems for Aerial Manipulation**|Yonglin Tian Team|[2601.21602](http://arxiv.org/abs/2601.21602)|null|
+|**2026-01-29**|**IROS: A Dual-Process Architecture for Real-Time VLM-Based Indoor Navigation**|Jeonggil Ko Team|[2601.21506](http://arxiv.org/abs/2601.21506)|null|
 |**2026-01-28**|**Demonstration-Free Robotic Control via LLM Agents**|Tiffany J. Hwu Team|[2601.20334](http://arxiv.org/abs/2601.20334)|null|
 |**2026-01-28**|**Tactile-Force Alignment in Vision-Language-Action Models for Force-aware Manipulation**|Ziyuan Jiao Team|[2601.20321](http://arxiv.org/abs/2601.20321)|null|
 |**2026-01-28**|**Shallow-π: Knowledge Distillation for Flow-based VLAs**|Taehan Kim Team|[2601.20262](http://arxiv.org/abs/2601.20262)|null|
@@ -5625,6 +5644,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-29**|**DexTac: Learning Contact-aware Visuotactile Policies via Hand-by-hand Teaching**|Shuo Wang Team|[2601.21474](http://arxiv.org/abs/2601.21474)|null|
 |**2026-01-26**|**Grasp-and-Lift: Executable 3D Hand-Object Interaction Reconstruction via Physics-in-the-Loop Optimization**|Jongwoo Lim Team|[2601.18121](http://arxiv.org/abs/2601.18121)|null|
 |**2026-01-24**|**PILOT: A Perceptive Integrated Low-level Controller for Loco-manipulation over Unstructured Scenes**|Hesheng Wang Team|[2601.17440](http://arxiv.org/abs/2601.17440)|null|
 |**2026-01-21**|**CADGrasp: Learning Contact and Collision Aware General Dexterous Grasping in Cluttered Scenes**|Hao Dong Team|[2601.15039](http://arxiv.org/abs/2601.15039)|null|

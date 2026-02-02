@@ -1775,6 +1775,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-30**|**User Prompting Strategies and Prompt Enhancement Methods for Open-Set Object Detection in XR Environments**|Maria Gorlatova Team|[2601.23281](http://arxiv.org/abs/2601.23281)|null|
+|**2026-01-30**|**Training-Free Test-Time Adaptation with Brownian Distance Covariance in Vision-Language Models**|Liang-Jie Zhang Team|[2601.23253](http://arxiv.org/abs/2601.23253)|null|
+|**2026-01-30**|**Structured Over Scale: Learning Spatial Reasoning from Educational Video**|Sarah Ostadabbas Team|[2601.23251](http://arxiv.org/abs/2601.23251)|null|
+|**2026-01-30**|**Hearing is Believing? Evaluating and Analyzing Audio Language Model Sycophancy with SYAUDIO**|Lijie Hu Team|[2601.23149](http://arxiv.org/abs/2601.23149)|null|
 |**2026-01-30**|**One-shot Optimized Steering Vector for Hallucination Mitigation for VLMs**|Dong Liu Team|[2601.23041](http://arxiv.org/abs/2601.23041)|null|
 |**2026-01-30**|**Triage: Hierarchical Visual Budgeting for Efficient Video Reasoning in Vision-Language Models**|Jianzong Wang Team|[2601.22959](http://arxiv.org/abs/2601.22959)|null|
 |**2026-01-30**|**Alignment among Language, Vision and Action Representations**|Stefano Nolfi Team|[2601.22948](http://arxiv.org/abs/2601.22948)|null|

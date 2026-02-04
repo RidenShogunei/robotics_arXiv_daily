@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-03**|**MVP-LAM: Learning Action-Centric Latent Action via Cross-Viewpoint Reconstruction**|Jungwoo Lee Team|[2602.03668](http://arxiv.org/abs/2602.03668)|null|
 |**2026-02-03**|**Hierarchical Proportion Models for Motion Generation via Integration of Motion Primitives**|Sho Sakaino Team|[2602.03188](http://arxiv.org/abs/2602.03188)|null|
 |**2026-02-02**|**Language Movement Primitives: Grounding Language Models in Robot Motion**|Simon Stepputtis Team|[2602.02839](http://arxiv.org/abs/2602.02839)|null|
 |**2026-02-02**|**On the Sample Efficiency of Inverse Dynamics Models for Semi-Supervised Imitation Learning**|Sébastien Lachapelle Team|[2602.02762](http://arxiv.org/abs/2602.02762)|null|
@@ -1795,6 +1796,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-03**|**They Said Memes Were Harmless-We Found the Ones That Hurt: Decoding Jokes, Symbols, and Cultural References**|Usman Naseem Team|[2602.03822](http://arxiv.org/abs/2602.03822)|null|
+|**2026-02-03**|**Zero-shot large vision-language model prompting for automated bone identification in paleoradiology x-ray archives**|Katherine D. Van Schaik Team|[2602.03750](http://arxiv.org/abs/2602.03750)|null|
+|**2026-02-03**|**Edge-Optimized Vision-Language Models for Underground Infrastructure Assessment**|Mahdi Abdelguerfi Team|[2602.03742](http://arxiv.org/abs/2602.03742)|null|
+|**2026-02-03**|**RegionReasoner: Region-Grounded Multi-Round Visual Reasoning**|Cees G. M. Snoek Team|[2602.03733](http://arxiv.org/abs/2602.03733)|null|
+|**2026-02-03**|**MM-SCALE: Grounded Multimodal Moral Reasoning via Scalar Judgment and Listwise Alignment**|Gunhee Kim Team|[2602.03665](http://arxiv.org/abs/2602.03665)|null|
+|**2026-02-03**|**KTV: Keyframes and Key Tokens Selection for Efficient Training-Free Video LLMs**|Jianyuan Guo Team|[2602.03615](http://arxiv.org/abs/2602.03615)|null|
+|**2026-02-03**|**TIPS Over Tricks: Simple Prompts for Effective Zero-shot Anomaly Detection**|Mohammad Sabokrou Team|[2602.03594](http://arxiv.org/abs/2602.03594)|null|
+|**2026-02-03**|**Interpretable Logical Anomaly Classification via Constraint Decomposition and Instruction Fine-Tuning**|Jianxiong Wang Team|[2602.03530](http://arxiv.org/abs/2602.03530)|null|
 |**2026-02-03**|**Decoupling Skeleton and Flesh: Efficient Multimodal Table Reasoning with Disentangled Alignment and Structure-aware Guidance**|Min Zhang Team|[2602.03491](http://arxiv.org/abs/2602.03491)|null|
 |**2026-02-03**|**Contextualized Visual Personalization in Vision-Language Models**|Sungroh Yoon Team|[2602.03454](http://arxiv.org/abs/2602.03454)|**[link](https://github.com/oyt9306/CoViP)**|
 |**2026-02-03**|**AesRec: A Dataset for Aesthetics-Aligned Clothing Outfit Recommendation**|Jimmy Xiangji Huang Team|[2602.03416](http://arxiv.org/abs/2602.03416)|null|
@@ -4784,6 +4793,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-03**|**QVLA: Not All Channels Are Equal in Vision-Language-Action Model's Quantization**|Zhipeng Zhang Team|[2602.03782](http://arxiv.org/abs/2602.03782)|null|
+|**2026-02-03**|**MVP-LAM: Learning Action-Centric Latent Action via Cross-Viewpoint Reconstruction**|Jungwoo Lee Team|[2602.03668](http://arxiv.org/abs/2602.03668)|null|
 |**2026-02-03**|**CRL-VLA: Continual Vision-Language-Action Learning**|Chao Huang Team|[2602.03445](http://arxiv.org/abs/2602.03445)|null|
 |**2026-02-03**|**RDT2: Exploring the Scaling Limit of UMI Data Towards Zero-Shot Cross-Embodiment Generalization**|Jun Zhu Team|[2602.03310](http://arxiv.org/abs/2602.03310)|null|
 |**2026-02-03**|**When Attention Betrays: Erasing Backdoor Attacks in Robotic Policies by Reconstructing Visual Tokens**|Miao Li Team|[2602.03153](http://arxiv.org/abs/2602.03153)|null|

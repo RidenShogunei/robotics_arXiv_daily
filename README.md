@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-04**|**CoWTracker: Tracking by Warping instead of Correlation**|Andrea Vedaldi Team|[2602.04877](http://arxiv.org/abs/2602.04877)|null|
 |**2026-02-04**|**A Unified Complementarity-based Approach for Rigid-Body Manipulation and Motion Prediction**|Riddhiman Laha Team|[2602.04522](http://arxiv.org/abs/2602.04522)|null|
 |**2026-02-04**|**Viewpoint Matters: Dynamically Optimizing Viewpoints with Masked Autoencoder for Visual Manipulation**|Wenzhao Lian Team|[2602.04243](http://arxiv.org/abs/2602.04243)|null|
 |**2026-02-04**|**GeoLanG: Geometry-Aware Language-Guided Grasping with Unified RGB-D Multimodal Learning**|Hongliang Ren Team|[2602.04231](http://arxiv.org/abs/2602.04231)|null|
@@ -1814,6 +1815,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Hilde Kuehne Team|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
+|**2026-02-04**|**El Agente Estructural: An Artificially Intelligent Molecular Editor**|Varinia Bernales Team|[2602.04849](http://arxiv.org/abs/2602.04849)|null|
+|**2026-02-04**|**VISTA-Bench: Do Vision-Language Models Really Understand Visualized Text as Well as Pure Text?**|Huchuan Lu Team|[2602.04802](http://arxiv.org/abs/2602.04802)|null|
 |**2026-02-04**|**Annotation Free Spacecraft Detection and Segmentation using Vision Language Models**|Djamila Aouada Team|[2602.04699](http://arxiv.org/abs/2602.04699)|null|
 |**2026-02-04**|**AGILE: Hand-Object Interaction Reconstruction from Video via Agentic Generation**|Chunhua Shen Team|[2602.04672](http://arxiv.org/abs/2602.04672)|null|
 |**2026-02-04**|**PIO-FVLM: Rethinking Training-Free Visual Token Reduction for VLM Acceleration from an Inference-Objective Perspective**|Chunhua Shen Team|[2602.04657](http://arxiv.org/abs/2602.04657)|null|
@@ -5510,6 +5514,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-04**|**PDF-HR: Pose Distance Fields for Humanoid Robots**|Renjing Xu Team|[2602.04851](http://arxiv.org/abs/2602.04851)|**[link](https://gaoyukang33.github.io/PDF-HR/}{Project)**|
 |**2026-02-04**|**EgoActor: Grounding Task Planning into Spatial-aware Egocentric Actions for Humanoid Robots via Visual-Language Models**|Börje F. Karlsson Team|[2602.04515](http://arxiv.org/abs/2602.04515)|null|
 |**2026-02-04**|**HoRD: Robust Humanoid Control via History-Conditioned Reinforcement Learning and Online Distillation**|Hong Jia Team|[2602.04412](http://arxiv.org/abs/2602.04412)|null|
 |**2026-02-02**|**Flow Policy Gradients for Robot Control**|Angjoo Kanazawa Team|[2602.02481](http://arxiv.org/abs/2602.02481)|**[link](https://hongsukchoi.github.io/fpo-control)**|

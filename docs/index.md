@@ -1809,6 +1809,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-05**|**Can vision language models learn intuitive physics from interaction?**|Eric Schulz Team|[2602.06033](http://arxiv.org/abs/2602.06033)|null|
+|**2026-02-05**|**GenArena: How Can We Achieve Human-Aligned Evaluation for Visual Generation Tasks?**|Jiaqi Wang Team|[2602.06013](http://arxiv.org/abs/2602.06013)|**[link](https://genarena.github.io/)**|
 |**2026-02-05**|**Focus-Scan-Refine: From Human Visual Perception to Efficient Visual Token Pruning**|Xianming Liu Team|[2602.05809](http://arxiv.org/abs/2602.05809)|null|
 |**2026-02-05**|**Allocentric Perceiver: Disentangling Allocentric Reasoning from Egocentric Visual Priors via Frame Instantiation**|Weiming Zhang Team|[2602.05789](http://arxiv.org/abs/2602.05789)|null|
 |**2026-02-05**|**Ethology of Latent Spaces**|Philippe Boisnard Team|[2602.05710](http://arxiv.org/abs/2602.05710)|**[link](https://paragraphe.univ-paris8.fr/IMG/pdf/programme_colloque_his9_campuscondorcet_v3.pdf)**|

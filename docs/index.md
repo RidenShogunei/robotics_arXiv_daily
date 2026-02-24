@@ -2,13 +2,21 @@
 layout: default
 ---
 
-## Updated on 2026.02.23
+## Updated on 2026.02.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-22**|**The Price Is Not Right: Neuro-Symbolic Methods Outperform VLAs on Structured Long-Horizon Manipulation Tasks with Significantly Lower Energy Consumption**|Matthias Scheutz Team|[2602.19260](http://arxiv.org/abs/2602.19260)|null|
+|**2026-02-22**|**Human-to-Robot Interaction: Learning from Video Demonstration for Robot Imitation**|Xiem HoangVan Team|[2602.19184](http://arxiv.org/abs/2602.19184)|null|
+|**2026-02-21**|**TactEx: An Explainable Multimodal Robotic Interaction Framework for Human-Like Touch and Hardness Estimation**|Dandan Zhang Team|[2602.18967](http://arxiv.org/abs/2602.18967)|null|
+|**2026-02-21**|**TPRU: Advancing Temporal and Procedural Understanding in Large Multimodal Models**|Yuan Xie Team|[2602.18884](http://arxiv.org/abs/2602.18884)|**[link](https://github.com/Stephen-gzk/TPRU)**|
+|**2026-02-21**|**Issues with Measuring Task Complexity via Random Policies in Robotic Tasks**|Aditya Gilra Team|[2602.18856](http://arxiv.org/abs/2602.18856)|null|
+|**2026-02-21**|**HeRO: Hierarchical 3D Semantic Representation for Pose-aware Object Manipulation**|Shuaicheng Liu Team|[2602.18817](http://arxiv.org/abs/2602.18817)|null|
+|**2026-02-21**|**RoboCurate: Harnessing Diversity with Action-Verified Neural Trajectory for Robot Learning**|Jinwoo Shin Team|[2602.18742](http://arxiv.org/abs/2602.18742)|**[link](https://seungkukim.github.io/robocurate/)**|
+|**2026-02-20**|**Enhancing Goal Inference via Correction Timing**|Tesca Fitzgerald Team|[2602.18603](http://arxiv.org/abs/2602.18603)|null|
 |**2026-02-20**|**SimVLA: A Simple VLA Baseline for Robotic Manipulation**|Zhenguo Li Team|[2602.18224](http://arxiv.org/abs/2602.18224)|null|
 |**2026-02-20**|**UAOR: Uncertainty-aware Observation Reinjection for Vision-Language-Action Models**|Liang Wang Team|[2602.18020](http://arxiv.org/abs/2602.18020)|null|
 |**2026-02-20**|**Quasi-Periodic Gaussian Process Predictive Iterative Learning Control**|Michael Burke Team|[2602.18014](http://arxiv.org/abs/2602.18014)|null|
@@ -1912,6 +1920,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-22**|**TOPReward: Token Probabilities as Hidden Zero-Shot Rewards for Robotics**|Ranjay Krishna Team|[2602.19313](http://arxiv.org/abs/2602.19313)|null|
+|**2026-02-22**|**Safe and Interpretable Multimodal Path Planning for Multi-Agent Cooperation**|Tianmin Shu Team|[2602.19304](http://arxiv.org/abs/2602.19304)|null|
+|**2026-02-22**|**Retrieval Augmented Enhanced Dual Co-Attention Framework for Target Aware Multimodal Bengali Hateful Meme Detection**|Md. Golam Rabiul Alam Team|[2602.19212](http://arxiv.org/abs/2602.19212)|null|
+|**2026-02-22**|**Prompt Tuning for CLIP on the Pretrained Manifold**|Jie Wen Team|[2602.19198](http://arxiv.org/abs/2602.19198)|null|
+|**2026-02-22**|**Human-to-Robot Interaction: Learning from Video Demonstration for Robot Imitation**|Xiem HoangVan Team|[2602.19184](http://arxiv.org/abs/2602.19184)|null|
+|**2026-02-22**|**EMAD: Evidence-Centric Grounded Multimodal Diagnosis for Alzheimer's Disease**|Yi Hong Team|[2602.19178](http://arxiv.org/abs/2602.19178)|null|
+|**2026-02-22**|**Keep it SymPL: Symbolic Projective Layout for Allocentric Spatial Reasoning in Vision-Language Models**|Hyoseok Hwang Team|[2602.19117](http://arxiv.org/abs/2602.19117)|null|
+|**2026-02-22**|**Universal 3D Shape Matching via Coarse-to-Fine Language Guidance**|Kit-lun Yick Team|[2602.19112](http://arxiv.org/abs/2602.19112)|null|
+|**2026-02-22**|**Do LLMs and VLMs Share Neurons for Inference? Evidence and Mechanisms of Cross-Modal Transfer**|Tat-Seng Chua Team|[2602.19058](http://arxiv.org/abs/2602.19058)|null|
+|**2026-02-22**|**Towards Calibrating Prompt Tuning of Vision-Language Models**|Muhammad Haris Khan Team|[2602.19024](http://arxiv.org/abs/2602.19024)|null|
+|**2026-02-22**|**A Benchmark and Knowledge-Grounded Framework for Advanced Multimodal Personalization Study**|Howard Zhou Team|[2602.19001](http://arxiv.org/abs/2602.19001)|null|
+|**2026-02-21**|**Similarity-as-Evidence: Calibrating Overconfident VLMs for Interpretable and Label-Efficient Medical Active Learning**|Shuo Li Team|[2602.18867](http://arxiv.org/abs/2602.18867)|null|
+|**2026-02-21**|**Open-Vocabulary Domain Generalization in Urban-Scene Segmentation**|Zhun Zhong Team|[2602.18853](http://arxiv.org/abs/2602.18853)|null|
+|**2026-02-21**|**DUET-VLM: Dual stage Unified Efficient Token reduction for VLM Training and Inference**|Emad Barsoum Team|[2602.18846](http://arxiv.org/abs/2602.18846)|**[link](https://github.com/AMD-AGI/DUET-VLM)**|
+|**2026-02-21**|**Learning Multi-Modal Prototypes for Cross-Domain Few-Shot Object Detection**|Zhi Chen Team|[2602.18811](http://arxiv.org/abs/2602.18811)|null|
+|**2026-02-21**|**Initialization matters in few-shot adaptation of vision-language models for histopathological image classification**|Valery Naranjo Team|[2602.18766](http://arxiv.org/abs/2602.18766)|null|
+|**2026-02-21**|**TAG: Thinking with Action Unit Grounding for Facial Expression Recognition**|Wentao Zhang Team|[2602.18763](http://arxiv.org/abs/2602.18763)|null|
+|**2026-02-21**|**MIRROR: Multimodal Iterative Reasoning via Reflection on Visual Regions**|Yunde Jia Team|[2602.18746](http://arxiv.org/abs/2602.18746)|null|
+|**2026-02-21**|**Synthesizing Multimodal Geometry Datasets from Scratch and Enabling Visual Alignment via Plotting Code**|Binhang Yuan Team|[2602.18745](http://arxiv.org/abs/2602.18745)|null|
+|**2026-02-21**|**RoboCurate: Harnessing Diversity with Action-Verified Neural Trajectory for Robot Learning**|Jinwoo Shin Team|[2602.18742](http://arxiv.org/abs/2602.18742)|**[link](https://seungkukim.github.io/robocurate/)**|
 |**2026-02-20**|**CapNav: Benchmarking Vision Language Models on Capability-conditioned Indoor Navigation**|Jon Froehlich Team|[2602.18424](http://arxiv.org/abs/2602.18424)|null|
 |**2026-02-20**|**Zero-shot Interactive Perception**|Amir Ghalamzan Team|[2602.18374](http://arxiv.org/abs/2602.18374)|**[link](https://openreview.net/forum?id=7MhpFcr5Nx)**|
 |**2026-02-20**|**Simplifying Outcomes of Language Model Component Analyses with ELIA**|Nils Feldhus Team|[2602.18262](http://arxiv.org/abs/2602.18262)|**[link](https://github.com/aaron0eidt/ELIA)**|
@@ -5121,6 +5149,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-22**|**TOPReward: Token Probabilities as Hidden Zero-Shot Rewards for Robotics**|Ranjay Krishna Team|[2602.19313](http://arxiv.org/abs/2602.19313)|null|
+|**2026-02-22**|**The Price Is Not Right: Neuro-Symbolic Methods Outperform VLAs on Structured Long-Horizon Manipulation Tasks with Significantly Lower Energy Consumption**|Matthias Scheutz Team|[2602.19260](http://arxiv.org/abs/2602.19260)|null|
+|**2026-02-21**|**Habilis- $β$ : A Fast-Motion and Long-Lasting On-Device Vision-Language-Action Model**|Theo Taeyeong Kim Team|[2602.18813](http://arxiv.org/abs/2602.18813)|null|
+|**2026-02-20**|**VLANeXt: Recipes for Building Strong VLA Models**|Chen Change Loy Team|[2602.18532](http://arxiv.org/abs/2602.18532)|**[link](https://dravenalg.github.io/VLANeXt/)**|
 |**2026-02-20**|**How Fast Can I Run My VLA? Demystifying VLA Inference Performance with VLA-Perf**|Christos Kozyrakis Team|[2602.18397](http://arxiv.org/abs/2602.18397)|null|
 |**2026-02-20**|**SimVLA: A Simple VLA Baseline for Robotic Manipulation**|Zhenguo Li Team|[2602.18224](http://arxiv.org/abs/2602.18224)|null|
 |**2026-02-20**|**UAOR: Uncertainty-aware Observation Reinjection for Vision-Language-Action Models**|Liang Wang Team|[2602.18020](http://arxiv.org/abs/2602.18020)|null|
@@ -5875,7 +5907,7 @@ layout: default
 |**2026-02-16**|**AdaptManip: Learning Adaptive Whole-Body Object Lifting and Delivery with Online Recurrent State Estimation**|Sehoon Ha Team|[2602.14363](http://arxiv.org/abs/2602.14363)|**[link](https://morganbyrd03.github.io/adaptmanip/)**|
 |**2026-02-15**|**ProAct: A Dual-System Framework for Proactive Embodied Social Agents**|Libin Liu Team|[2602.14048](http://arxiv.org/abs/2602.14048)|**[link](https://proactrobot.github.io/)**|
 |**2026-02-18**|**Humanoid Hanoi: Investigating Shared Whole-Body Control for Skill-Based Box Rearrangement**|Alan Fern Team|[2602.13850](http://arxiv.org/abs/2602.13850)|null|
-|**2026-02-14**|**Impact-Robust Posture Optimization for Aerial Manipulation**|Antonio Franchi Team|[2602.13762](http://arxiv.org/abs/2602.13762)|null|
+|**2026-02-22**|**Impact-Robust Posture Optimization for Aerial Manipulation**|Antonio Franchi Team|[2602.13762](http://arxiv.org/abs/2602.13762)|null|
 |**2026-02-14**|**A Kung Fu Athlete Bot That Can Do It All Day: Highly Dynamic, Balance-Challenging Motion Dataset and Autonomous Fall-Resilient Tracking**|Xuesong Li Team|[2602.13656](http://arxiv.org/abs/2602.13656)|null|
 |**2026-02-12**|**General Humanoid Whole-Body Control via Pretraining and Fast Adaptation**|Zongqing Lu Team|[2602.11929](http://arxiv.org/abs/2602.11929)|null|
 |**2026-02-12**|**HAIC: Humanoid Agile Object Interaction Control via Dynamics-Aware World Model**|Renjing Xu Team|[2602.11758](http://arxiv.org/abs/2602.11758)|**[link](https://haic-humanoid.github.io/)**|
@@ -6250,6 +6282,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-21**|**RoboCurate: Harnessing Diversity with Action-Verified Neural Trajectory for Robot Learning**|Jinwoo Shin Team|[2602.18742](http://arxiv.org/abs/2602.18742)|**[link](https://seungkukim.github.io/robocurate/)**|
 |**2026-02-20**|**Generated Reality: Human-centric World Simulation using Interactive Video Generation with Hand and Camera Control**|Gordon Wetzstein Team|[2602.18422](http://arxiv.org/abs/2602.18422)|**[link](https://codeysun.github.io/generated-reality)**|
 |**2026-02-20**|**WHED: A Wearable Hand Exoskeleton for Natural, High-Quality Demonstration Collection**|Dennis W. Hong Team|[2602.17908](http://arxiv.org/abs/2602.17908)|null|
 |**2026-02-18**|**One Hand to Rule Them All: Canonical Representations for Unified Dexterous Manipulation**|Mingyu Ding Team|[2602.16712](http://arxiv.org/abs/2602.16712)|**[link](https://zhenyuwei2003.github.io/OHRA/)**|

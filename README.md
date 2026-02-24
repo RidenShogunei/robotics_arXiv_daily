@@ -16,6 +16,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-23**|**AdaWorldPolicy: World-Model-Driven Diffusion Policy with Online Adaptive Learning for Robotic Manipulation**|Dong Xu Team|[2602.20057](http://arxiv.org/abs/2602.20057)|**[link](https://AdaWorldPolicy.github.io)**|
+|**2026-02-23**|**Beyond Mimicry: Toward Lifelong Adaptability in Imitation Learning**|Odinaldo Rodrigues Team|[2602.19930](http://arxiv.org/abs/2602.19930)|null|
+|**2026-02-23**|**Hilbert-Augmented Reinforcement Learning for Scalable Multi-Robot Coverage and Exploration**|Aryya Gangopadhyay Team|[2602.19400](http://arxiv.org/abs/2602.19400)|null|
+|**2026-02-22**|**Seeing Farther and Smarter: Value-Guided Multi-Path Reflection for VLM Policy Optimization**|Dimitris N. Metaxas Team|[2602.19372](http://arxiv.org/abs/2602.19372)|null|
 |**2026-02-22**|**The Price Is Not Right: Neuro-Symbolic Methods Outperform VLAs on Structured Long-Horizon Manipulation Tasks with Significantly Lower Energy Consumption**|Matthias Scheutz Team|[2602.19260](http://arxiv.org/abs/2602.19260)|null|
 |**2026-02-22**|**Human-to-Robot Interaction: Learning from Video Demonstration for Robot Imitation**|Xiem HoangVan Team|[2602.19184](http://arxiv.org/abs/2602.19184)|null|
 |**2026-02-21**|**TactEx: An Explainable Multimodal Robotic Interaction Framework for Human-Like Touch and Hardness Estimation**|Dandan Zhang Team|[2602.18967](http://arxiv.org/abs/2602.18967)|null|
@@ -1929,6 +1933,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-23**|**NovaPlan: Zero-Shot Long-Horizon Manipulation via Closed-Loop Video Language Planning**|George Konidaris Team|[2602.20119](http://arxiv.org/abs/2602.20119)|**[link](https://nova-plan.github.io/)**|
+|**2026-02-23**|**StructXLIP: Enhancing Vision-language Models with Multimodal Structural Cues**|Marco Cristani Team|[2602.20089](http://arxiv.org/abs/2602.20089)|null|
+|**2026-02-23**|**Do Large Language Models Understand Data Visualization Principles?**|Emmanuel Iarussi Team|[2602.20084](http://arxiv.org/abs/2602.20084)|null|
+|**2026-02-23**|**HeatPrompt: Zero-Shot Vision-Language Modeling of Urban Heat Demand from Satellite Images**|Veit Hagenmeyer Team|[2602.20066](http://arxiv.org/abs/2602.20066)|null|
+|**2026-02-23**|**Contextual Safety Reasoning and Grounding for Open-World Robots**|George J. Pappas Team|[2602.19983](http://arxiv.org/abs/2602.19983)|null|
+|**2026-02-23**|**BeamVLM for Low-altitude Economy: Generative Beam Prediction via Vision-language Models**|Chengwen Xing Team|[2602.19929](http://arxiv.org/abs/2602.19929)|null|
+|**2026-02-23**|**Multi-Modal Representation Learning via Semi-Supervised Rate Reduction for Generalized Category Discovery**|Chun-Guang Li Team|[2602.19910](http://arxiv.org/abs/2602.19910)|null|
+|**2026-02-23**|**ApET: Approximation-Error Guided Token Compression for Efficient VLMs**|Hairong Zheng Team|[2602.19870](http://arxiv.org/abs/2602.19870)|null|
+|**2026-02-23**|**TraceVision: Trajectory-Aware Vision-Language Model for Human-Like Spatial Understanding**|Jinqiao Wang Team|[2602.19768](http://arxiv.org/abs/2602.19768)|null|
+|**2026-02-23**|**Seeing Clearly, Reasoning Confidently: Plug-and-Play Remedies for Vision Language Model Blindness**|Zhengming Ding Team|[2602.19615](http://arxiv.org/abs/2602.19615)|null|
+|**2026-02-23**|**VALD: Multi-Stage Vision Attack Detection for Efficient LVLM Defense**|Ayellet Tal Team|[2602.19570](http://arxiv.org/abs/2602.19570)|null|
+|**2026-02-23**|**Can a Teenager Fool an AI? Evaluating Low-Cost Cosmetic Attacks on Age Estimation Systems**|Simiao Ren Team|[2602.19539](http://arxiv.org/abs/2602.19539)|null|
+|**2026-02-23**|**ORION: ORthonormal Text Encoding for Universal VLM AdaptatION**|Ismail Ben Ayed Team|[2602.19530](http://arxiv.org/abs/2602.19530)|null|
+|**2026-02-23**|**Forgetting-Resistant and Lesion-Aware Source-Free Domain Adaptive Fundus Image Analysis with Vision-Language Model**|Xiaomeng Li Team|[2602.19471](http://arxiv.org/abs/2602.19471)|null|
+|**2026-02-23**|**Decoupling Vision and Language: Codebook Anchored Visual Adaptation**|Jonathan Wu Team|[2602.19449](http://arxiv.org/abs/2602.19449)|null|
+|**2026-02-23**|**UrbanAlign: Post-hoc Semantic Calibration for VLM-Human Preference Alignment**|Chunlei Shi Team|[2602.19442](http://arxiv.org/abs/2602.19442)|null|
+|**2026-02-23**|**PA-Attack: Guiding Gray-Box Attacks on LVLM Vision Encoders with Prototypes and Attention**|Minjing Dong Team|[2602.19418](http://arxiv.org/abs/2602.19418)|null|
+|**2026-02-22**|**Seeing Farther and Smarter: Value-Guided Multi-Path Reflection for VLM Policy Optimization**|Dimitris N. Metaxas Team|[2602.19372](http://arxiv.org/abs/2602.19372)|null|
+|**2026-02-22**|**MentalBlackboard: Evaluating Spatial Visualization via Mathematical Transformations**|Yezhou Yang Team|[2602.19357](http://arxiv.org/abs/2602.19357)|null|
 |**2026-02-22**|**TOPReward: Token Probabilities as Hidden Zero-Shot Rewards for Robotics**|Ranjay Krishna Team|[2602.19313](http://arxiv.org/abs/2602.19313)|null|
 |**2026-02-22**|**Safe and Interpretable Multimodal Path Planning for Multi-Agent Cooperation**|Tianmin Shu Team|[2602.19304](http://arxiv.org/abs/2602.19304)|null|
 |**2026-02-22**|**Retrieval Augmented Enhanced Dual Co-Attention Framework for Target Aware Multimodal Bengali Hateful Meme Detection**|Md. Golam Rabiul Alam Team|[2602.19212](http://arxiv.org/abs/2602.19212)|null|
@@ -5160,6 +5183,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-23**|**Universal Pose Pretraining for Generalizable Vision-Language-Action Policies**|Yanwei Fu Team|[2602.19710](http://arxiv.org/abs/2602.19710)|null|
 |**2026-02-22**|**TOPReward: Token Probabilities as Hidden Zero-Shot Rewards for Robotics**|Ranjay Krishna Team|[2602.19313](http://arxiv.org/abs/2602.19313)|null|
 |**2026-02-22**|**The Price Is Not Right: Neuro-Symbolic Methods Outperform VLAs on Structured Long-Horizon Manipulation Tasks with Significantly Lower Energy Consumption**|Matthias Scheutz Team|[2602.19260](http://arxiv.org/abs/2602.19260)|null|
 |**2026-02-21**|**Habilis- $β$ : A Fast-Motion and Long-Lasting On-Device Vision-Language-Action Model**|Theo Taeyeong Kim Team|[2602.18813](http://arxiv.org/abs/2602.18813)|null|
@@ -5919,7 +5943,7 @@
 |**2026-02-16**|**Replanning Human-Robot Collaborative Tasks with Vision-Language Models via Semantic and Physical Dual-Correction**|Kensuke Harada Team|[2602.14551](http://arxiv.org/abs/2602.14551)|null|
 |**2026-02-16**|**AdaptManip: Learning Adaptive Whole-Body Object Lifting and Delivery with Online Recurrent State Estimation**|Sehoon Ha Team|[2602.14363](http://arxiv.org/abs/2602.14363)|**[link](https://morganbyrd03.github.io/adaptmanip/)**|
 |**2026-02-15**|**ProAct: A Dual-System Framework for Proactive Embodied Social Agents**|Libin Liu Team|[2602.14048](http://arxiv.org/abs/2602.14048)|**[link](https://proactrobot.github.io/)**|
-|**2026-02-18**|**Humanoid Hanoi: Investigating Shared Whole-Body Control for Skill-Based Box Rearrangement**|Alan Fern Team|[2602.13850](http://arxiv.org/abs/2602.13850)|null|
+|**2026-02-23**|**Humanoid Hanoi: Investigating Shared Whole-Body Control for Skill-Based Box Rearrangement**|Alan Fern Team|[2602.13850](http://arxiv.org/abs/2602.13850)|**[link](https://osudrl.github.io/Humanoid_Hanoi/)**|
 |**2026-02-22**|**Impact-Robust Posture Optimization for Aerial Manipulation**|Antonio Franchi Team|[2602.13762](http://arxiv.org/abs/2602.13762)|null|
 |**2026-02-14**|**A Kung Fu Athlete Bot That Can Do It All Day: Highly Dynamic, Balance-Challenging Motion Dataset and Autonomous Fall-Resilient Tracking**|Xuesong Li Team|[2602.13656](http://arxiv.org/abs/2602.13656)|null|
 |**2026-02-12**|**General Humanoid Whole-Body Control via Pretraining and Fast Adaptation**|Zongqing Lu Team|[2602.11929](http://arxiv.org/abs/2602.11929)|null|

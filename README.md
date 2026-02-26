@@ -1,4 +1,4 @@
-## Updated on 2026.02.25
+## Updated on 2026.02.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,6 +16,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-25**|**DexRepNet++: Learning Dexterous Robotic Manipulation with Geometric and Spatial Hand-Object Representations**|Qi Ye Team|[2602.21811](http://arxiv.org/abs/2602.21811)|null|
+|**2026-02-25**|**Joint-Aligned Latent Action: Towards Scalable VLA Pretraining in the Wild**|Zongqing Lu Team|[2602.21736](http://arxiv.org/abs/2602.21736)|null|
+|**2026-02-25**|**Primary-Fine Decoupling for Action Generation in Robotic Imitation**|Houqiang Li Team|[2602.21684](http://arxiv.org/abs/2602.21684)|null|
+|**2026-02-25**|**Biomechanical Comparisons Reveal Divergence of Human and Humanoid Gaits**|Wei Chen Team|[2602.21666](http://arxiv.org/abs/2602.21666)|null|
+|**2026-02-25**|**Self-Correcting VLA: Online Action Refinement via Sparse World Imagination**|Heng Tao Shen Team|[2602.21633](http://arxiv.org/abs/2602.21633)|null|
+|**2026-02-25**|**Tacmap: Bridging the Tactile Sim-to-Real Gap via Geometry-Consistent Penetration Depth Map**|Xuezhou Zhu Team|[2602.21625](http://arxiv.org/abs/2602.21625)|null|
+|**2026-02-25**|**ADM-DP: Adaptive Dynamic Modality Diffusion Policy through Vision-Tactile-Graph Fusion for Multi-Agent Manipulation**|Dandan Zhang Team|[2602.21622](http://arxiv.org/abs/2602.21622)|null|
+|**2026-02-25**|**Constructive Vector Fields for Path Following in Fully-Actuated Systems on Matrix Lie Groups**|Luciano C. A. Pimenta Team|[2602.21450](http://arxiv.org/abs/2602.21450)|null|
+|**2026-02-24**|**VLA Knows Its Limits**|Gaowen Liu Team|[2602.21445](http://arxiv.org/abs/2602.21445)|**[link](https://hatchetproject.github.io/autohorizon/)**|
+|**2026-02-24**|**Provably Safe Generative Sampling with Constricting Barrier Functions**|Fabio Pasqualetti Team|[2602.21429](http://arxiv.org/abs/2602.21429)|null|
 |**2026-02-24**|**ActionReasoning: Robot Action Reasoning in 3D Space with LLM for Robotic Brick Stacking**|Brian Sheil Team|[2602.21161](http://arxiv.org/abs/2602.21161)|null|
 |**2026-02-24**|**HALO: A Unified Vision-Language-Action Model for Embodied Multimodal Chain-of-Thought Reasoning**|Song Guo Team|[2602.21157](http://arxiv.org/abs/2602.21157)|null|
 |**2026-02-24**|**Matching Multiple Experts: On the Exploitability of Multi-Agent Imitation Learning**|Negar Mehr Team|[2602.21020](http://arxiv.org/abs/2602.21020)|null|
@@ -1935,12 +1945,29 @@
 |**2018-10-09**|**Robustness via Retrying: Closed-Loop Robotic Manipulation with Self-Supervised Learning**|Chelsea Finn Team|[1810.03043](http://arxiv.org/abs/1810.03043)|null|
 |**2017-10-27**|**Learning Robotic Manipulation of Granular Media**|Sergey Levine Team|[1709.02833](http://arxiv.org/abs/1709.02833)|null|
 
-<p align=right>(<a href=#updated-on-20260225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260226>back to top</a>)</p>
 
 ## VLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-25**|**RobustVisRAG: Causality-Aware Vision-Based Retrieval-Augmented Generation under Visual Degradations**|Wei-Ting Chen Team|[2602.22013](http://arxiv.org/abs/2602.22013)|**[link](https://robustvisrag.github.io)**|
+|**2026-02-25**|**PanoEnv: Exploring 3D Spatial Intelligence in Panoramic Environments with Reinforcement Learning**|Xu Zheng Team|[2602.21992](http://arxiv.org/abs/2602.21992)|null|
+|**2026-02-25**|**Humanizing Robot Gaze Shifts: A Framework for Natural Gaze Shifts in Humanoid Robots**|Zhouping Yin Team|[2602.21983](http://arxiv.org/abs/2602.21983)|null|
+|**2026-02-25**|**MindDriver: Introducing Progressive Multimodal Reasoning for Autonomous Driving**|Mu Xu Team|[2602.21952](http://arxiv.org/abs/2602.21952)|null|
+|**2026-02-25**|**DynamicGTR: Leveraging Graph Topology Representation Preferences to Boost VLM Capabilities on Graph QAs**|Yu Zhang Team|[2602.21864](http://arxiv.org/abs/2602.21864)|null|
+|**2026-02-25**|**DocDjinn: Controllable Synthetic Document Generation with VLMs and Handwriting Diffusion**|Adrian Ulges Team|[2602.21824](http://arxiv.org/abs/2602.21824)|null|
+|**2026-02-25**|**Beyond Static Artifacts: A Forensic Benchmark for Video Deepfake Reasoning in Vision Language Models**|Xuelong Li Team|[2602.21779](http://arxiv.org/abs/2602.21779)|null|
+|**2026-02-25**|**SigVLP: Sigmoid Volume-Language Pre-Training for Self-Supervised CT-Volume Adaptive Representation Learning**|Bernhard Kainz Team|[2602.21735](http://arxiv.org/abs/2602.21735)|null|
+|**2026-02-25**|**SurGo-R1: Benchmarking and Modeling Contextual Reasoning for Operative Zone in Surgical Video**|Yueming Jin Team|[2602.21706](http://arxiv.org/abs/2602.21706)|null|
+|**2026-02-25**|**Dynamic Multimodal Activation Steering for Hallucination Mitigation in Large Vision-Language Models**|Liang He Team|[2602.21704](http://arxiv.org/abs/2602.21704)|null|
+|**2026-02-25**|**When More Is Less: A Systematic Analysis of Spatial and Commonsense Information for Visual Spatial Reasoning**|Soyeon Caren Han Team|[2602.21619](http://arxiv.org/abs/2602.21619)|null|
+|**2026-02-25**|**Virtual Biopsy for Intracranial Tumors Diagnosis on MRI**|Jianguo Zhang Team|[2602.21613](http://arxiv.org/abs/2602.21613)|null|
+|**2026-02-25**|**See It, Say It, Sorted: An Iterative Training-Free Framework for Visually-Grounded Multimodal Reasoning in LVLMs**|Yang Chen Team|[2602.21497](http://arxiv.org/abs/2602.21497)|null|
+|**2026-02-24**|**Synergizing Understanding and Generation with Interleaved Analyzing-Drafting Thinking**|Tat-seng Chua Team|[2602.21435](http://arxiv.org/abs/2602.21435)|null|
+|**2026-02-24**|**PSF-Med: Measuring and Explaining Paraphrase Sensitivity in Medical Vision Language Models**|Vahid Behzadan Team|[2602.21428](http://arxiv.org/abs/2602.21428)|null|
+|**2026-02-24**|**Exploring Vision-Language Models for Open-Vocabulary Zero-Shot Action Segmentation**|Karthik Ramani Team|[2602.21406](http://arxiv.org/abs/2602.21406)|null|
+|**2026-02-24**|**MMLoP: Multi-Modal Low-Rank Prompting for Efficient Vision-Language Adaptation**|Ramtin Pedarsani Team|[2602.21397](http://arxiv.org/abs/2602.21397)|null|
 |**2026-02-24**|**Spa3R: Predictive Spatial Field Modeling for 3D Visual Reasoning**|Xinggang Wang Team|[2602.21186](http://arxiv.org/abs/2602.21186)|null|
 |**2026-02-24**|**Seeing Through Words: Controlling Visual Retrieval Quality with Language Models**|Yun Fu Team|[2602.21175](http://arxiv.org/abs/2602.21175)|null|
 |**2026-02-24**|**LUMEN: Longitudinal Multi-Modal Radiology Model for Prognosis and Diagnosis**|Marius George Linguraru Team|[2602.21142](http://arxiv.org/abs/2602.21142)|null|
@@ -5208,12 +5235,17 @@
 |**2024-04-19**|**VLP: A Survey on Vision-Language Pre-training**|Bo Xu Team|[2202.09061](http://arxiv.org/abs/2202.09061)|null|
 |**2022-10-07**|**Learning to Prompt for Vision-Language Models**|Ziwei Liu Team|[2109.01134](http://arxiv.org/abs/2109.01134)|null|
 
-<p align=right>(<a href=#updated-on-20260225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260226>back to top</a>)</p>
 
 ## VLA
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-25**|**World Guidance: World Modeling in Condition Space for Action Generation**|Xihui Liu Team|[2602.22010](http://arxiv.org/abs/2602.22010)|**[link](https://selen-suyue.github.io/WoGNet/)**|
+|**2026-02-25**|**Joint-Aligned Latent Action: Towards Scalable VLA Pretraining in the Wild**|Zongqing Lu Team|[2602.21736](http://arxiv.org/abs/2602.21736)|null|
+|**2026-02-25**|**Self-Correcting VLA: Online Action Refinement via Sparse World Imagination**|Heng Tao Shen Team|[2602.21633](http://arxiv.org/abs/2602.21633)|null|
+|**2026-02-25**|**LiLo-VLA: Compositional Long-Horizon Manipulation via Linked Object-Centric Policies**|Daniel Szafir Team|[2602.21531](http://arxiv.org/abs/2602.21531)|null|
+|**2026-02-24**|**VLA Knows Its Limits**|Gaowen Liu Team|[2602.21445](http://arxiv.org/abs/2602.21445)|**[link](https://hatchetproject.github.io/autohorizon/)**|
 |**2026-02-24**|**NoRD: A Data-Efficient Vision-Language-Action Model that Drives without Reasoning**|Wei Zhan Team|[2602.21172](http://arxiv.org/abs/2602.21172)|null|
 |**2026-02-24**|**ActionReasoning: Robot Action Reasoning in 3D Space with LLM for Robotic Brick Stacking**|Brian Sheil Team|[2602.21161](http://arxiv.org/abs/2602.21161)|null|
 |**2026-02-24**|**HALO: A Unified Vision-Language-Action Model for Embodied Multimodal Chain-of-Thought Reasoning**|Song Guo Team|[2602.21157](http://arxiv.org/abs/2602.21157)|null|
@@ -5974,12 +6006,14 @@
 |**2022-08-16**|**A Dataset for Interactive Vision-Language Navigation with Unknown Command Feasibility**|Bryan A. Plummer Team|[2202.02312](http://arxiv.org/abs/2202.02312)|null|
 |**2017-04-25**|**An Analysis of Action Recognition Datasets for Language and Vision Tasks**|Frank Keller Team|[1704.07129](http://arxiv.org/abs/1704.07129)|null|
 
-<p align=right>(<a href=#updated-on-20260225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260226>back to top</a>)</p>
 
 ## Humanoid
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-25**|**Humanizing Robot Gaze Shifts: A Framework for Natural Gaze Shifts in Humanoid Robots**|Zhouping Yin Team|[2602.21983](http://arxiv.org/abs/2602.21983)|null|
+|**2026-02-25**|**LessMimic: Long-Horizon Humanoid Interaction with Unified Distance Field Representations**|Siyuan Huang Team|[2602.21723](http://arxiv.org/abs/2602.21723)|null|
 |**2026-02-24**|**Task-oriented grasping for dexterous robots using postural synergies and reinforcement learning**|Plinio Moreno Team|[2602.20915](http://arxiv.org/abs/2602.20915)|null|
 |**2026-02-24**|**Learning Humanoid End-Effector Control for Open-Vocabulary Visual Loco-Manipulation**|Saurabh Gupta Team|[2602.16705](http://arxiv.org/abs/2602.16705)|**[link](https://hero-humanoid.github.io/)**|
 |**2026-02-17**|**Perceptive Humanoid Parkour: Chaining Dynamic Human Skills via Motion Matching**|C. Karen Liu Team|[2602.15827](http://arxiv.org/abs/2602.15827)|null|
@@ -6359,12 +6393,14 @@
 |**2016-07-19**|**Design and implementation of computational platform for social-humanoid robot Lumen as an exhibition guide in Electrical Engineering Days 2015**|Ary Setijadi Prihatmanto Team|[1607.04763](http://arxiv.org/abs/1607.04763)|null|
 |**2016-11-18**|**Gaze Stabilization for Humanoid Robots: a Comprehensive Framework**|Lorenzo Natale Team|[1411.3525](http://arxiv.org/abs/1411.3525)|null|
 
-<p align=right>(<a href=#updated-on-20260225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260226>back to top</a>)</p>
 
 ## Dexterous
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-25**|**DexRepNet++: Learning Dexterous Robotic Manipulation with Geometric and Spatial Hand-Object Representations**|Qi Ye Team|[2602.21811](http://arxiv.org/abs/2602.21811)|null|
+|**2026-02-25**|**Primary-Fine Decoupling for Action Generation in Robotic Imitation**|Houqiang Li Team|[2602.21684](http://arxiv.org/abs/2602.21684)|null|
 |**2026-02-24**|**Notes-to-Self: Scratchpad Augmented VLAs for Memory Dependent Manipulation Tasks**|Roland Memisevic Team|[2602.21013](http://arxiv.org/abs/2602.21013)|null|
 |**2026-02-24**|**Grasp to Act: Dexterous Grasping for Tool Use in Dynamic Settings**|Wenzhen Yuan Team|[2602.20466](http://arxiv.org/abs/2602.20466)|**[link](https://grasp2act.github.io/)**|
 |**2026-02-21**|**RoboCurate: Harnessing Diversity with Action-Verified Neural Trajectory for Robot Learning**|Jinwoo Shin Team|[2602.18742](http://arxiv.org/abs/2602.18742)|**[link](https://seungkukim.github.io/robocurate/)**|
@@ -6622,5 +6658,5 @@
 |**2018-06-27**|**Learning Complex Dexterous Manipulation with Deep Reinforcement Learning and Demonstrations**|Sergey Levine Team|[1709.10087](http://arxiv.org/abs/1709.10087)|**[link](https://sites.google.com/view/deeprl-dexterous-manipulation)**|
 |**2017-03-21**|**Learning Dexterous Manipulation for a Soft Robotic Hand from Human Demonstration**|Pieter Abbeel Team|[1603.06348](http://arxiv.org/abs/1603.06348)|null|
 
-<p align=right>(<a href=#updated-on-20260225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260226>back to top</a>)</p>
 

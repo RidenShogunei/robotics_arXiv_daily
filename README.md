@@ -5315,7 +5315,7 @@
 |**2026-02-24**|**VLA Knows Its Limits**|Gaowen Liu Team|[2602.21445](http://arxiv.org/abs/2602.21445)|**[link](https://hatchetproject.github.io/autohorizon/)**|
 |**2026-02-25**|**NoRD: A Data-Efficient Vision-Language-Action Model that Drives without Reasoning**|Wei Zhan Team|[2602.21172](http://arxiv.org/abs/2602.21172)|null|
 |**2026-02-24**|**ActionReasoning: Robot Action Reasoning in 3D Space with LLM for Robotic Brick Stacking**|Brian Sheil Team|[2602.21161](http://arxiv.org/abs/2602.21161)|null|
-|**2026-02-24**|**HALO: A Unified Vision-Language-Action Model for Embodied Multimodal Chain-of-Thought Reasoning**|Song Guo Team|[2602.21157](http://arxiv.org/abs/2602.21157)|null|
+|**2026-02-27**|**HALO: A Unified Vision-Language-Action Model for Embodied Multimodal Chain-of-Thought Reasoning**|Song Guo Team|[2602.21157](http://arxiv.org/abs/2602.21157)|null|
 |**2026-02-24**|**Notes-to-Self: Scratchpad Augmented VLAs for Memory Dependent Manipulation Tasks**|Roland Memisevic Team|[2602.21013](http://arxiv.org/abs/2602.21013)|null|
 |**2026-02-24**|**IG-RFT: An Interaction-Guided RL Framework for VLA Models in Long-Horizon Robotic Manipulation**|Huixu Dong Team|[2602.20715](http://arxiv.org/abs/2602.20715)|null|
 |**2026-02-25**|**Recursive Belief Vision Language Action Models**|Nirav Kumar Patel Team|[2602.20659](http://arxiv.org/abs/2602.20659)|null|

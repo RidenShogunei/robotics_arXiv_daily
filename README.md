@@ -1,4 +1,4 @@
-## Updated on 2026.03.01
+## Updated on 2026.03.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,10 +16,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-27**|**Planning from Observation and Interaction**|Byron Boots Team|[2602.24121](http://arxiv.org/abs/2602.24121)|null|
+|**2026-02-27**|**ABPolicy: Asynchronous B-Spline Flow Policy for Real-Time and Smooth Robotic Manipulation**|Yuting Su Team|[2602.23901](http://arxiv.org/abs/2602.23901)|null|
+|**2026-02-27**|**Hybrid Offline-Online Reinforcement Learning for Sensorless, High-Precision Force Regulation in Surgical Robotic Grasping**|Cesare Stefanini Team|[2602.23870](http://arxiv.org/abs/2602.23870)|null|
+|**2026-02-27**|**Beyond State-Wise Mirror Descent: Offline Policy Optimization with Parameteric Policies**|Yuheng Zhang Team|[2602.23811](http://arxiv.org/abs/2602.23811)|null|
+|**2026-02-27**|**Actor-Critic Pretraining for Proximal Policy Optimization**|Marco F. Huber Team|[2602.23804](http://arxiv.org/abs/2602.23804)|null|
+|**2026-02-27**|**StemVLA:An Open-Source Vision-Language-Action Model with Future 3D Spatial Geometry Knowledge and 4D Historical Representation**|Ziang Tong Team|[2602.23721](http://arxiv.org/abs/2602.23721)|null|
+|**2026-02-27**|**FAVLA: A Force-Adaptive Fast-Slow VLA model for Contact-Rich Robotic Manipulation**|Yanyong Zhang Team|[2602.23648](http://arxiv.org/abs/2602.23648)|null|
+|**2026-02-27**|**VCA: Vision-Click-Action Framework for Precise Manipulation of Segmented Objects in Target Ambiguous Environments**|Daegyu Lim Team|[2602.23583](http://arxiv.org/abs/2602.23583)|null|
+|**2026-02-26**|**Demystifying Action Space Design for Robotic Manipulation Policies**|Xianyuan Zhan Team|[2602.23408](http://arxiv.org/abs/2602.23408)|null|
 |**2026-02-26**|**Interface-Aware Trajectory Reconstruction of Limited Demonstrations for Robot Learning**|Brenna D. Argall Team|[2602.23287](http://arxiv.org/abs/2602.23287)|null|
 |**2026-02-26**|**Risk-Aware World Model Predictive Control for Generalizable End-to-End Autonomous Driving**|Nicu Sebe Team|[2602.23259](http://arxiv.org/abs/2602.23259)|null|
 |**2026-02-26**|**Automated Robotic Needle Puncture for Percutaneous Dilatational Tracheostomy**|Andrew Weightman Team|[2602.22952](http://arxiv.org/abs/2602.22952)|null|
-|**2026-02-26**|**DySL-VLA: Efficient Vision-Language-Action Model Inference via Dynamic-Static Layer-Skipping for Robot Manipulation**|Meng Li Team|[2602.22896](http://arxiv.org/abs/2602.22896)|null|
+|**2026-02-27**|**DySL-VLA: Efficient Vision-Language-Action Model Inference via Dynamic-Static Layer-Skipping for Robot Manipulation**|Meng Li Team|[2602.22896](http://arxiv.org/abs/2602.22896)|null|
 |**2026-02-26**|**GraspLDP: Towards Generalizable Grasping Policy via Latent Diffusion**|Di Huang Team|[2602.22862](http://arxiv.org/abs/2602.22862)|null|
 |**2026-02-26**|**LeRobot: An Open-Source Library for End-to-End Robot Learning**|Thomas Wolf Team|[2602.22818](http://arxiv.org/abs/2602.22818)|**[link](https://github.com/huggingface/lerobot)**|
 |**2026-02-26**|**Multi-agent imitation learning with function approximation: Linear Markov games and beyond**|Giorgia Ramponi Team|[2602.22810](http://arxiv.org/abs/2602.22810)|null|
@@ -1956,12 +1965,27 @@
 |**2018-10-09**|**Robustness via Retrying: Closed-Loop Robotic Manipulation with Self-Supervised Learning**|Chelsea Finn Team|[1810.03043](http://arxiv.org/abs/1810.03043)|null|
 |**2017-10-27**|**Learning Robotic Manipulation of Granular Media**|Sergey Levine Team|[1709.02833](http://arxiv.org/abs/1709.02833)|null|
 
-<p align=right>(<a href=#updated-on-20260301>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260302>back to top</a>)</p>
 
 ## VLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-27**|**Toward Guarantees for Clinical Reasoning in Vision Language Models via Formal Verification**|Gourav Datta Team|[2602.24111](http://arxiv.org/abs/2602.24111)|null|
+|**2026-02-27**|**Quant Experts: Token-aware Adaptive Error Reconstruction with Mixture of Experts for Large Vision-Language Models Quantization**|Hongbin Sun Team|[2602.24059](http://arxiv.org/abs/2602.24059)|null|
+|**2026-02-27**|**GuardAlign: Test-time Safety Alignment in Multimodal Large Language Models**|Xiangnan He Team|[2602.24027](http://arxiv.org/abs/2602.24027)|null|
+|**2026-02-27**|**Interpretable Debiasing of Vision-Language Models for Social Fairness**|Hyunjung Shim Team|[2602.24014](http://arxiv.org/abs/2602.24014)|null|
+|**2026-02-27**|**CC-VQA: Conflict- and Correlation-Aware Method for Mitigating Knowledge Conflict in Knowledge-Based Visual Question Answering**|Jieping Ye Team|[2602.23952](http://arxiv.org/abs/2602.23952)|null|
+|**2026-02-27**|**Open-Vocabulary Semantic Segmentation in Remote Sensing via Hierarchical Attention Masking and Model Composition**|Franz Rottensteiner Team|[2602.23869](http://arxiv.org/abs/2602.23869)|null|
+|**2026-02-27**|**Human-Centered Multimodal Fusion for Sexism Detection in Memes with Eye-Tracking, Heart Rate, and EEG Signals**|Elena Gomis-Vicent Team|[2602.23862](http://arxiv.org/abs/2602.23862)|null|
+|**2026-02-27**|**Footprint-Guided Exemplar-Free Continual Histopathology Report Generation**|Dorit Merhof Team|[2602.23817](http://arxiv.org/abs/2602.23817)|null|
+|**2026-02-27**|**See, Act, Adapt: Active Perception for Unsupervised Cross-Domain Visual Adaptation via Personalized VLM-Guided Agent**|Gaoang Wang Team|[2602.23806](http://arxiv.org/abs/2602.23806)|null|
+|**2026-02-27**|**Shape vs. Context: Examining Human--AI Gaps in Ambiguous Japanese Character Recognition**|Daichi Haraguchi Team|[2602.23746](http://arxiv.org/abs/2602.23746)|null|
+|**2026-02-27**|**Suppressing Prior-Comparison Hallucinations in Radiology Report Generation via Semantically Decoupled Latent Steering**|Lei Xing Team|[2602.23676](http://arxiv.org/abs/2602.23676)|null|
+|**2026-02-27**|**ProtoDCS: Towards Robust and Efficient Open-Set Test-Time Adaptation for Vision-Language Models**|Mingkui Tan Team|[2602.23653](http://arxiv.org/abs/2602.23653)|null|
+|**2026-02-27**|**3D Modality-Aware Pre-training for Vision-Language Model in MRI Multi-organ Abnormality Detection**|Xiaogen Zhou Team|[2602.23652](http://arxiv.org/abs/2602.23652)|null|
+|**2026-02-27**|**Pseudo Contrastive Learning for Diagram Comprehension in Multimodal Models**|Hiroshi Sasaki Team|[2602.23589](http://arxiv.org/abs/2602.23589)|null|
+|**2026-02-26**|**DesignSense: A Human Preference Dataset and Reward Modeling Framework for Graphic Layout Generation**|Mausoom Sarkar Team|[2602.23438](http://arxiv.org/abs/2602.23438)|null|
 |**2026-02-26**|**Scale Can't Overcome Pragmatics: The Impact of Reporting Bias on Vision-Language Reasoning**|Ranjay Krishna Team|[2602.23351](http://arxiv.org/abs/2602.23351)|null|
 |**2026-02-26**|**Retrieve and Segment: Are a Few Examples Enough to Bridge the Supervision Gap in Open-Vocabulary Segmentation?**|Giorgos Tolias Team|[2602.23339](http://arxiv.org/abs/2602.23339)|null|
 |**2026-02-26**|**CXReasonAgent: Evidence-Grounded Diagnostic Reasoning Agent for Chest X-rays**|Edward Choi Team|[2602.23276](http://arxiv.org/abs/2602.23276)|null|
@@ -5270,13 +5294,17 @@
 |**2024-04-19**|**VLP: A Survey on Vision-Language Pre-training**|Bo Xu Team|[2202.09061](http://arxiv.org/abs/2202.09061)|null|
 |**2022-10-07**|**Learning to Prompt for Vision-Language Models**|Ziwei Liu Team|[2109.01134](http://arxiv.org/abs/2109.01134)|null|
 
-<p align=right>(<a href=#updated-on-20260301>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260302>back to top</a>)</p>
 
 ## VLA
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-02-26**|**DySL-VLA: Efficient Vision-Language-Action Model Inference via Dynamic-Static Layer-Skipping for Robot Manipulation**|Meng Li Team|[2602.22896](http://arxiv.org/abs/2602.22896)|null|
+|**2026-02-27**|**Robust Skills, Brittle Grounding: Diagnosing Restricted Generalization in Vision-Language Action Policies via Multi-Object Picking**|Jean-Michel Renders Team|[2602.24143](http://arxiv.org/abs/2602.24143)|null|
+|**2026-02-27**|**StemVLA:An Open-Source Vision-Language-Action Model with Future 3D Spatial Geometry Knowledge and 4D Historical Representation**|Ziang Tong Team|[2602.23721](http://arxiv.org/abs/2602.23721)|null|
+|**2026-02-27**|**FAVLA: A Force-Adaptive Fast-Slow VLA model for Contact-Rich Robotic Manipulation**|Yanyong Zhang Team|[2602.23648](http://arxiv.org/abs/2602.23648)|null|
+|**2026-02-27**|**VCA: Vision-Click-Action Framework for Precise Manipulation of Segmented Objects in Target Ambiguous Environments**|Daegyu Lim Team|[2602.23583](http://arxiv.org/abs/2602.23583)|null|
+|**2026-02-27**|**DySL-VLA: Efficient Vision-Language-Action Model Inference via Dynamic-Static Layer-Skipping for Robot Manipulation**|Meng Li Team|[2602.22896](http://arxiv.org/abs/2602.22896)|null|
 |**2026-02-26**|**Rethinking the Practicality of Vision-language-action Model: A Comprehensive Benchmark and An Improved Baseline**|Haoang Li Team|[2602.22663](http://arxiv.org/abs/2602.22663)|null|
 |**2026-02-26**|**Metamorphic Testing of Vision-Language Action-Enabled Robots**|Aitor Arrieta Team|[2602.22579](http://arxiv.org/abs/2602.22579)|null|
 |**2026-02-26**|**SignVLA: A Gloss-Free Vision-Language-Action Framework for Real-Time Sign Language-Guided Robotic Manipulation**|Zezhi Tang Team|[2602.22514](http://arxiv.org/abs/2602.22514)|null|
@@ -6045,12 +6073,14 @@
 |**2022-08-16**|**A Dataset for Interactive Vision-Language Navigation with Unknown Command Feasibility**|Bryan A. Plummer Team|[2202.02312](http://arxiv.org/abs/2202.02312)|null|
 |**2017-04-25**|**An Analysis of Action Recognition Datasets for Language and Vision Tasks**|Frank Keller Team|[1704.07129](http://arxiv.org/abs/1704.07129)|null|
 
-<p align=right>(<a href=#updated-on-20260301>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260302>back to top</a>)</p>
 
 ## Humanoid
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-27**|**Humanoid Robots as First Assistants in Endoscopic Surgery**|Mathias Unberath Team|[2602.24156](http://arxiv.org/abs/2602.24156)|null|
+|**2026-02-27**|**OmniTrack: General Motion Tracking via Physics-Consistent Reference**|Siyuan Huang Team|[2602.23832](http://arxiv.org/abs/2602.23832)|**[link](https://omnitrack-humanoid.github.io/)**|
 |**2026-02-26**|**EmbodMocap: In-the-Wild 4D Human-Scene Reconstruction for Embodied Agents**|Taku Komura Team|[2602.23205](http://arxiv.org/abs/2602.23205)|null|
 |**2026-02-25**|**Humanizing Robot Gaze Shifts: A Framework for Natural Gaze Shifts in Humanoid Robots**|Zhouping Yin Team|[2602.21983](http://arxiv.org/abs/2602.21983)|null|
 |**2026-02-25**|**LessMimic: Long-Horizon Humanoid Interaction with Unified Distance Field Representations**|Siyuan Huang Team|[2602.21723](http://arxiv.org/abs/2602.21723)|null|
@@ -6433,7 +6463,7 @@
 |**2016-07-19**|**Design and implementation of computational platform for social-humanoid robot Lumen as an exhibition guide in Electrical Engineering Days 2015**|Ary Setijadi Prihatmanto Team|[1607.04763](http://arxiv.org/abs/1607.04763)|null|
 |**2016-11-18**|**Gaze Stabilization for Humanoid Robots: a Comprehensive Framework**|Lorenzo Natale Team|[1411.3525](http://arxiv.org/abs/1411.3525)|null|
 
-<p align=right>(<a href=#updated-on-20260301>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260302>back to top</a>)</p>
 
 ## Dexterous
 
@@ -6700,5 +6730,5 @@
 |**2018-06-27**|**Learning Complex Dexterous Manipulation with Deep Reinforcement Learning and Demonstrations**|Sergey Levine Team|[1709.10087](http://arxiv.org/abs/1709.10087)|**[link](https://sites.google.com/view/deeprl-dexterous-manipulation)**|
 |**2017-03-21**|**Learning Dexterous Manipulation for a Soft Robotic Hand from Human Demonstration**|Pieter Abbeel Team|[1603.06348](http://arxiv.org/abs/1603.06348)|null|
 
-<p align=right>(<a href=#updated-on-20260301>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260302>back to top</a>)</p>
 

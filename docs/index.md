@@ -2,13 +2,19 @@
 layout: default
 ---
 
-## Updated on 2026.03.02
+## Updated on 2026.03.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-01**|**A Novel Reconfigurable Dexterous Hand Based on Triple-Symmetric Bricard Parallel Mechanism**|Dan Zhang Team|[2603.00892](http://arxiv.org/abs/2603.00892)|null|
+|**2026-02-28**|**COMBAT: Conditional World Models for Behavioral Agent Training**|Spencer Frazier Team|[2603.00825](http://arxiv.org/abs/2603.00825)|null|
+|**2026-02-28**|**UniHM: Unified Dexterous Hand Manipulation with Vision Language Model**|Jingya Wang Team|[2603.00732](http://arxiv.org/abs/2603.00732)|null|
+|**2026-02-28**|**TGM-VLA: Task-Guided Mixup for Sampling-Efficient and Robust Robotic Manipulation**|Wenming Yang Team|[2603.00615](http://arxiv.org/abs/2603.00615)|null|
+|**2026-02-28**|**Zero-Shot Robotic Manipulation via 3D Gaussian Splatting-Enhanced Multimodal Retrieval-Augmented Generation**|Yuan Xie Team|[2603.00500](http://arxiv.org/abs/2603.00500)|null|
+|**2026-02-26**|**Embedding Morphology into Transformers for Cross-Robot Policy Learning**|Toshiaki Koike-Akino Team|[2603.00182](http://arxiv.org/abs/2603.00182)|null|
 |**2026-02-27**|**Planning from Observation and Interaction**|Byron Boots Team|[2602.24121](http://arxiv.org/abs/2602.24121)|null|
 |**2026-02-27**|**ABPolicy: Asynchronous B-Spline Flow Policy for Real-Time and Smooth Robotic Manipulation**|Yuting Su Team|[2602.23901](http://arxiv.org/abs/2602.23901)|null|
 |**2026-02-27**|**Hybrid Offline-Online Reinforcement Learning for Sensorless, High-Precision Force Regulation in Surgical Robotic Grasping**|Cesare Stefanini Team|[2602.23870](http://arxiv.org/abs/2602.23870)|null|
@@ -1962,6 +1968,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-01**|**GeMi: A Graph-based, Multimodal Recommendation System for Narrative Scroll Paintings**|Saurabh Amarnath Mahindre Team|[2603.00854](http://arxiv.org/abs/2603.00854)|null|
+|**2026-03-01**|**MedGPT-oss: Training a General-Purpose Vision-Language Model for Biomedicine**|Yonghui Wu Team|[2603.00842](http://arxiv.org/abs/2603.00842)|null|
+|**2026-02-28**|**UniHM: Unified Dexterous Hand Manipulation with Vision Language Model**|Jingya Wang Team|[2603.00732](http://arxiv.org/abs/2603.00732)|null|
+|**2026-02-28**|**Act Like a Pathologist: Tissue-Aware Whole Slide Image Reasoning**|Chen Wang Team|[2603.00667](http://arxiv.org/abs/2603.00667)|null|
+|**2026-02-28**|**IdGlow: Dynamic Identity Modulation for Multi-Subject Generation**|Zhen Li Team|[2603.00607](http://arxiv.org/abs/2603.00607)|null|
+|**2026-02-28**|**I-Perceive: A Foundation Model for Active Perception with Language Instructions**|Panpan Cai Team|[2603.00600](http://arxiv.org/abs/2603.00600)|null|
+|**2026-02-28**|**CaptionFool: Universal Image Captioning Model Attacks**|Swapnil Parekh Team|[2603.00529](http://arxiv.org/abs/2603.00529)|null|
+|**2026-02-28**|**Wavelet-based Frame Selection by Detecting Semantic Boundary for Long Video Understanding**|Xiawu Zheng Team|[2603.00512](http://arxiv.org/abs/2603.00512)|null|
+|**2026-02-28**|**Random Wins All: Rethinking Grouping Strategies for Vision Tokens**|Ran He Team|[2603.00486](http://arxiv.org/abs/2603.00486)|null|
+|**2026-02-28**|**RAISE: Requirement-Adaptive Evolutionary Refinement for Training-Free Text-to-Image Alignment**|Di Niu Team|[2603.00483](http://arxiv.org/abs/2603.00483)|null|
+|**2026-02-28**|**TokenCom: Vision-Language Model for Multimodal and Multitask Token Communications**|Jiangzhou Wang Team|[2603.00482](http://arxiv.org/abs/2603.00482)|null|
+|**2026-02-28**|**U-VLM: Hierarchical Vision Language Modeling for Report Generation**|Xinglin Zhang Team|[2603.00479](http://arxiv.org/abs/2603.00479)|null|
+|**2026-02-28**|**Atomicity for Agents: Exposing, Exploiting, and Mitigating TOCTOU Vulnerabilities in Browser-Use Agents**|Zhiqiang Lin Team|[2603.00476](http://arxiv.org/abs/2603.00476)|null|
+|**2026-02-28**|**OPGAgent: An Agent for Auditable Dental Panoramic X-ray Interpretation**|Zongyuan Ge Team|[2603.00462](http://arxiv.org/abs/2603.00462)|null|
+|**2026-02-28**|**SesaHand: Enhancing 3D Hand Reconstruction via Controllable Generation with Semantic and Structural Alignment**|Anyi Rao Team|[2603.00443](http://arxiv.org/abs/2603.00443)|null|
+|**2026-02-28**|**Self-Correction Inside the Model: Leveraging Layer Attention to Mitigate Hallucinations in Large Vision Language Models**|April Fu Team|[2603.00437](http://arxiv.org/abs/2603.00437)|null|
+|**2026-02-28**|**PointAlign: Feature-Level Alignment Regularization for 3D Vision-Language Models**|Qi Fan Team|[2603.00412](http://arxiv.org/abs/2603.00412)|null|
+|**2026-02-27**|**GENAI WORKBENCH: AI-Assisted Analysis and Synthesis of Engineering Systems from Multimodal Engineering Data**|Daniel R. Herber Team|[2603.00251](http://arxiv.org/abs/2603.00251)|null|
 |**2026-02-27**|**Toward Guarantees for Clinical Reasoning in Vision Language Models via Formal Verification**|Gourav Datta Team|[2602.24111](http://arxiv.org/abs/2602.24111)|null|
 |**2026-02-27**|**Quant Experts: Token-aware Adaptive Error Reconstruction with Mixture of Experts for Large Vision-Language Models Quantization**|Hongbin Sun Team|[2602.24059](http://arxiv.org/abs/2602.24059)|null|
 |**2026-02-27**|**GuardAlign: Test-time Safety Alignment in Multimodal Large Language Models**|Xiangnan He Team|[2602.24027](http://arxiv.org/abs/2602.24027)|null|
@@ -5289,6 +5313,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-28**|**UniHM: Unified Dexterous Hand Manipulation with Vision Language Model**|Jingya Wang Team|[2603.00732](http://arxiv.org/abs/2603.00732)|null|
+|**2026-02-28**|**Keyframe-Guided Structured Rewards for Reinforcement Learning in Long-Horizon Laboratory Robotics**|Mingzhai Sun Team|[2603.00719](http://arxiv.org/abs/2603.00719)|null|
+|**2026-02-28**|**LangGap: Diagnosing and Closing the Language Gap in Vision-Language-Action Models**|Lin Zhao Team|[2603.00592](http://arxiv.org/abs/2603.00592)|**[link](https://github.com/YC11Hou/langgap)**|
+|**2026-02-26**|**Embedding Morphology into Transformers for Cross-Robot Policy Learning**|Toshiaki Koike-Akino Team|[2603.00182](http://arxiv.org/abs/2603.00182)|null|
 |**2026-02-27**|**Robust Skills, Brittle Grounding: Diagnosing Restricted Generalization in Vision-Language Action Policies via Multi-Object Picking**|Jean-Michel Renders Team|[2602.24143](http://arxiv.org/abs/2602.24143)|null|
 |**2026-02-27**|**StemVLA:An Open-Source Vision-Language-Action Model with Future 3D Spatial Geometry Knowledge and 4D Historical Representation**|Ziang Tong Team|[2602.23721](http://arxiv.org/abs/2602.23721)|null|
 |**2026-02-27**|**FAVLA: A Force-Adaptive Fast-Slow VLA model for Contact-Rich Robotic Manipulation**|Yanyong Zhang Team|[2602.23648](http://arxiv.org/abs/2602.23648)|null|
@@ -6454,6 +6482,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-01**|**A Novel Reconfigurable Dexterous Hand Based on Triple-Symmetric Bricard Parallel Mechanism**|Dan Zhang Team|[2603.00892](http://arxiv.org/abs/2603.00892)|null|
+|**2026-02-28**|**UniHM: Unified Dexterous Hand Manipulation with Vision Language Model**|Jingya Wang Team|[2603.00732](http://arxiv.org/abs/2603.00732)|null|
 |**2026-02-26**|**Grasp, Slide, Roll: Comparative Analysis of Contact Modes for Tactile-Based Shape Reconstruction**|Joshua Migdal Team|[2602.23206](http://arxiv.org/abs/2602.23206)|null|
 |**2026-02-26**|**DigiArm: An Anthropomorphic 3D-Printed Prosthetic Hand with Enhanced Dexterity for Typing Tasks**|Nili Krausz Team|[2602.23017](http://arxiv.org/abs/2602.23017)|null|
 |**2026-02-25**|**DexRepNet++: Learning Dexterous Robotic Manipulation with Geometric and Spatial Hand-Object Representations**|Qi Ye Team|[2602.21811](http://arxiv.org/abs/2602.21811)|null|

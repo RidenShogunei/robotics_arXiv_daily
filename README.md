@@ -16,6 +16,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-03**|**Utonia: Toward One Encoder for All Point Clouds**|Hengshuang Zhao Team|[2603.03283](http://arxiv.org/abs/2603.03283)|**[link](https://pointcept.github.io/Utonia)**|
+|**2026-03-03**|**How to Peel with a Knife: Aligning Fine-Grained Manipulation with Human Preference**|Jitendra Malik Team|[2603.03280](http://arxiv.org/abs/2603.03280)|**[link](https://toruowo.github.io/peel)**|
+|**2026-03-03**|**RL-Based Coverage Path Planning for Deformable Objects on 3D Surfaces**|Feng Wu Team|[2603.03137](http://arxiv.org/abs/2603.03137)|null|
 |**2026-03-03**|**Tracing Back Error Sources to Explain and Mitigate Pose Estimation Failures**|Rania Rayyes Team|[2603.02881](http://arxiv.org/abs/2603.02881)|null|
 |**2026-03-03**|**Generative adversarial imitation learning for robot swarms: Learning from human demonstrations and trained policies**|Jonas Kuckling Team|[2603.02783](http://arxiv.org/abs/2603.02783)|null|
 |**2026-03-03**|**Uni-Skill: Building Self-Evolving Skill Repository for Generalizable Robotic Manipulation**|Xilin Chen Team|[2603.02623](http://arxiv.org/abs/2603.02623)|null|
@@ -1996,6 +1999,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-03**|**Utonia: Toward One Encoder for All Point Clouds**|Hengshuang Zhao Team|[2603.03283](http://arxiv.org/abs/2603.03283)|**[link](https://pointcept.github.io/Utonia)**|
+|**2026-03-03**|**Tether: Autonomous Functional Play with Correspondence-Driven Trajectory Warping**|Dinesh Jayaraman Team|[2603.03278](http://arxiv.org/abs/2603.03278)|**[link](https://tether-research.github.io)**|
+|**2026-03-03**|**UniG2U-Bench: Do Unified Models Advance Multimodal Understanding?**|Yifei Shen Team|[2603.03241](http://arxiv.org/abs/2603.03241)|null|
 |**2026-03-03**|**TagaVLM: Topology-Aware Global Action Reasoning for Vision-Language Navigation**|Baocai Yin Team|[2603.02972](http://arxiv.org/abs/2603.02972)|null|
 |**2026-03-03**|**Semi-Supervised Few-Shot Adaptation of Vision-Language Models**|Ender Konukoglu Team|[2603.02959](http://arxiv.org/abs/2603.02959)|**[link](https://github.com/jusiro/SS-Text-U)**|
 |**2026-03-03**|**Think-as-You-See: Streaming Chain-of-Thought Reasoning for Large Vision-Language Models**|Xiaoyu Shen Team|[2603.02872](http://arxiv.org/abs/2603.02872)|null|
@@ -5382,6 +5388,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-03**|**Utonia: Toward One Encoder for All Point Clouds**|Hengshuang Zhao Team|[2603.03283](http://arxiv.org/abs/2603.03283)|**[link](https://pointcept.github.io/Utonia)**|
+|**2026-03-03**|**Chain of World: World Model Thinking in Latent Motion**|Baorui Ma Team|[2603.03195](http://arxiv.org/abs/2603.03195)|**[link](https://fx-hit.github.io/cowvla-io/)**|
 |**2026-03-01**|**Characterizing VLA Models: Identifying the Action Generation Bottleneck for Edge AI Architectures**|Anand Raghunathan Team|[2603.02271](http://arxiv.org/abs/2603.02271)|null|
 |**2026-03-02**|**$π$ -StepNFT: Wider Space Needs Finer Steps in Online RL for Flow-based VLAs**|Jun Wang Team|[2603.02083](http://arxiv.org/abs/2603.02083)|null|
 |**2026-03-02**|**LaST-VLA: Thinking in Latent Spatio-Temporal Space for Vision-Language-Action in Autonomous Driving**|Fuxi Wen Team|[2603.01928](http://arxiv.org/abs/2603.01928)|null|

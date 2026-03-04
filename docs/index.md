@@ -2,13 +2,18 @@
 layout: default
 ---
 
-## Updated on 2026.03.03
+## Updated on 2026.03.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-03**|**Tracing Back Error Sources to Explain and Mitigate Pose Estimation Failures**|Rania Rayyes Team|[2603.02881](http://arxiv.org/abs/2603.02881)|null|
+|**2026-03-03**|**Generative adversarial imitation learning for robot swarms: Learning from human demonstrations and trained policies**|Jonas Kuckling Team|[2603.02783](http://arxiv.org/abs/2603.02783)|null|
+|**2026-03-03**|**Uni-Skill: Building Self-Evolving Skill Repository for Generalizable Robotic Manipulation**|Xilin Chen Team|[2603.02623](http://arxiv.org/abs/2603.02623)|null|
+|**2026-03-03**|**Learning Object-Centric Spatial Reasoning for Sequential Manipulation in Cluttered Environments**|Christopher Crick Team|[2603.02511](http://arxiv.org/abs/2603.02511)|null|
+|**2026-03-02**|**Strategic Shaping of Human Prosociality: A Latent-State POMDP Framework**|Kumar Akash Team|[2603.02379](http://arxiv.org/abs/2603.02379)|**[link](https://ieeexplore.ieee.org/document/11410120)**|
 |**2026-03-02**|**Rethinking Camera Choice: An Empirical Study on Fisheye Camera Properties in Robotic Manipulation**|Chuan Wen Team|[2603.02139](http://arxiv.org/abs/2603.02139)|null|
 |**2026-03-02**|**Robometer: Scaling General-Purpose Robotic Reward Models via Trajectory Comparisons**|Jesse Zhang Team|[2603.02115](http://arxiv.org/abs/2603.02115)|null|
 |**2026-03-02**|**ACDC: Adaptive Curriculum Planning with Dynamic Contrastive Control for Goal-Conditioned Reinforcement Learning in Robotic Manipulation**|Hengyan Liu Team|[2603.02104](http://arxiv.org/abs/2603.02104)|**[link](https://github.com/Xuerui-Wang-oss/Adaptive-Curriculum-Learning-and-Dynamic-Contrastive-Control)**|
@@ -1982,6 +1987,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-03**|**TagaVLM: Topology-Aware Global Action Reasoning for Vision-Language Navigation**|Baocai Yin Team|[2603.02972](http://arxiv.org/abs/2603.02972)|null|
+|**2026-03-03**|**Semi-Supervised Few-Shot Adaptation of Vision-Language Models**|Ender Konukoglu Team|[2603.02959](http://arxiv.org/abs/2603.02959)|**[link](https://github.com/jusiro/SS-Text-U)**|
+|**2026-03-03**|**Think-as-You-See: Streaming Chain-of-Thought Reasoning for Large Vision-Language Models**|Xiaoyu Shen Team|[2603.02872](http://arxiv.org/abs/2603.02872)|null|
+|**2026-03-03**|**Nodes Are Early, Edges Are Late: Probing Diagram Representations in Large Vision-Language Models**|Kentaro Inui Team|[2603.02865](http://arxiv.org/abs/2603.02865)|null|
+|**2026-03-03**|**CoFL: Continuous Flow Fields for Language-Conditioned Navigation**|Moju Zhao Team|[2603.02854](http://arxiv.org/abs/2603.02854)|null|
+|**2026-03-03**|**iGVLM: Dynamic Instruction-Guided Vision Encoding for Question-Aware Multimodal Understanding**|Kun He Team|[2603.02748](http://arxiv.org/abs/2603.02748)|null|
+|**2026-03-03**|**Behavior-Aware Anthropometric Scene Generation for Human-Usable 3D Layouts**|Kyung Hoon Hyun Team|[2603.02662](http://arxiv.org/abs/2603.02662)|null|
+|**2026-03-03**|**OmniFashion: Towards Generalist Fashion Intelligence via Multi-Task Vision-Language Learning**|Zheng Wang Team|[2603.02658](http://arxiv.org/abs/2603.02658)|null|
+|**2026-03-03**|**SaFeR-ToolKit: Structured Reasoning via Virtual Tool Calling for Multimodal Safety**|Zhigang Zeng Team|[2603.02635](http://arxiv.org/abs/2603.02635)|null|
+|**2026-03-03**|**Mind the Way You Select Negative Texts: Pursuing the Distance Consistency in OOD Detection with VLMs**|Qingming Huang Team|[2603.02618](http://arxiv.org/abs/2603.02618)|null|
+|**2026-03-03**|**VLMFusionOcc3D: VLM Assisted Multi-Modal 3D Semantic Occupancy Prediction**|Hasan F. Ates Team|[2603.02609](http://arxiv.org/abs/2603.02609)|null|
+|**2026-03-03**|**CAPT: Confusion-Aware Prompt Tuning for Reducing Vision-Language Misalignment**|Guoshun Nan Team|[2603.02557](http://arxiv.org/abs/2603.02557)|null|
+|**2026-03-03**|**Through the Lens of Contrast: Self-Improving Visual Reasoning in VLMs**|Jieping Ye Team|[2603.02556](http://arxiv.org/abs/2603.02556)|null|
+|**2026-03-03**|**Give me scissors: Collision-Free Dual-Arm Surgical Assistive Robot for Instrument Delivery**|Junchen Wang Team|[2603.02553](http://arxiv.org/abs/2603.02553)|null|
+|**2026-03-03**|**Agentic Mixed-Source Multi-Modal Misinformation Detection with Adaptive Test-Time Scaling**|Hongzhi Yin Team|[2603.02519](http://arxiv.org/abs/2603.02519)|null|
+|**2026-03-02**|**Video TokenCom: Textual Intent-Guided Multi-Rate Video Token Communications with UEP-Based Adaptive Source-Channel Coding**|Rahim Tafazolli Team|[2603.02470](http://arxiv.org/abs/2603.02470)|null|
+|**2026-03-02**|**ORCA: Orchestrated Reasoning with Collaborative Agents for Document Visual Question Answering**|Yousri Kessentini Team|[2603.02438](http://arxiv.org/abs/2603.02438)|null|
+|**2026-03-02**|**VL-KGE: Vision-Language Models Meet Knowledge Graph Embeddings**|Marcel Worring Team|[2603.02435](http://arxiv.org/abs/2603.02435)|null|
+|**2026-03-02**|**Cultural Counterfactuals: Evaluating Cultural Biases in Large Vision-Language Models with Counterfactual Examples**|Kathleen C. Fraser Team|[2603.02370](http://arxiv.org/abs/2603.02370)|null|
 |**2026-03-02**|**OmniLottie: Generating Vector Animations via Parameterized Lottie Tokens**|Xingjun Ma Team|[2603.02138](http://arxiv.org/abs/2603.02138)|**[link](https://openvglab.github.io/OmniLottie/)**|
 |**2026-03-02**|**Recursive Think-Answer Process for LLMs and VLMs**|Yong Man Ro Team|[2603.02099](http://arxiv.org/abs/2603.02099)|**[link](https://litcoderr.github.io/rtap_page/)**|
 |**2026-03-02**|**Learning to Read Where to Look: Disease-Aware Vision-Language Pretraining for 3D CT**|Thomas Brox Team|[2603.02026](http://arxiv.org/abs/2603.02026)|null|
@@ -5347,6 +5371,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-01**|**Characterizing VLA Models: Identifying the Action Generation Bottleneck for Edge AI Architectures**|Anand Raghunathan Team|[2603.02271](http://arxiv.org/abs/2603.02271)|null|
 |**2026-03-02**|**$π$ -StepNFT: Wider Space Needs Finer Steps in Online RL for Flow-based VLAs**|Jun Wang Team|[2603.02083](http://arxiv.org/abs/2603.02083)|null|
 |**2026-03-02**|**LaST-VLA: Thinking in Latent Spatio-Temporal Space for Vision-Language-Action in Autonomous Driving**|Fuxi Wen Team|[2603.01928](http://arxiv.org/abs/2603.01928)|null|
 |**2026-03-02**|**Neural Implicit Action Fields: From Discrete Waypoints to Continuous Functions for Vision-Language-Action Models**|Sheng Zhong Team|[2603.01766](http://arxiv.org/abs/2603.01766)|null|
@@ -6139,6 +6164,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-03**|**CMoE: Contrastive Mixture of Experts for Motion Control and Terrain Adaptation of Humanoid Robots**|Wenchao Ding Team|[2603.03067](http://arxiv.org/abs/2603.03067)|null|
 |**2026-03-01**|**Spherical Latent Motion Prior for Physics-Based Simulated Humanoid Control**|Renjing Xu Team|[2603.01294](http://arxiv.org/abs/2603.01294)|null|
 |**2026-03-01**|**Pro-HOI: Perceptive Root-guided Humanoid-Object Interaction**|Xuelong Li Team|[2603.01126](http://arxiv.org/abs/2603.01126)|null|
 |**2026-03-01**|**Minimalist Compliance Control**|Shuran Song Team|[2603.00913](http://arxiv.org/abs/2603.00913)|**[link](https://minimalist-compliance-control.github.io/)**|
@@ -6530,7 +6556,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-03-02**|**Rethinking Policy Diversity in Ensemble Policy Gradient in Large-Scale Reinforcement Learning**|Takayuki Osa Team|[2603.01741](http://arxiv.org/abs/2603.01741)|**[link](https://naoki04.github.io/paper-cpo/)**|
+|**2026-03-03**|**Rethinking Policy Diversity in Ensemble Policy Gradient in Large-Scale Reinforcement Learning**|Takayuki Osa Team|[2603.01741](http://arxiv.org/abs/2603.01741)|**[link](https://naoki04.github.io/paper-cpo/)**|
 |**2026-03-02**|**PhysGraph: Physically-Grounded Graph-Transformer Policies for Bimanual Dexterous Hand-Tool-Object Manipulation**|Truong Nguyen Team|[2603.01436](http://arxiv.org/abs/2603.01436)|null|
 |**2026-03-01**|**Minimalist Compliance Control**|Shuran Song Team|[2603.00913](http://arxiv.org/abs/2603.00913)|**[link](https://minimalist-compliance-control.github.io/)**|
 |**2026-03-01**|**A Novel Reconfigurable Dexterous Hand Based on Triple-Symmetric Bricard Parallel Mechanism**|Dan Zhang Team|[2603.00892](http://arxiv.org/abs/2603.00892)|null|

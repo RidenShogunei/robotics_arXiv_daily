@@ -9,6 +9,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**Dual-Modality Multi-Stage Adversarial Safety Training: Robustifying Multimodal Web Agents Against Cross-Modal Attacks**|Zeyu Zheng Team|[2603.04364](http://arxiv.org/abs/2603.04364)|null|
+|**2026-03-04**|**ManipulationNet: An Infrastructure for Benchmarking Real-World Robot Manipulation with Physical Skill Challenges and Embodied Multimodal Reasoning**|Kaiyu Hang Team|[2603.04363](http://arxiv.org/abs/2603.04363)|null|
+|**2026-03-04**|**RoboCasa365: A Large-Scale Simulation Framework for Training and Benchmarking Generalist Robots**|Yuke Zhu Team|[2603.04356](http://arxiv.org/abs/2603.04356)|null|
+|**2026-03-04**|**RoboLight: A Dataset with Linearly Composable Illumination for Robotic Manipulation**|Florian T. Pokorny Team|[2603.04249](http://arxiv.org/abs/2603.04249)|null|
+|**2026-03-04**|**Real Eyes Realize Faster: Gaze Stability and Pupil Novelty for Efficient Egocentric Learning**|Rohan Sathish Team|[2603.04098](http://arxiv.org/abs/2603.04098)|null|
 |**2026-03-04**|**Swimming Under Constraints: A Safe Reinforcement Learning Framework for Quadrupedal Bio-Inspired Propulsion**|Dixia Fan Team|[2603.04073](http://arxiv.org/abs/2603.04073)|null|
 |**2026-03-04**|**Force-Aware Residual DAgger via Trajectory Editing for Precision Insertion with Impedance Control**|Yaran Chen Team|[2603.04038](http://arxiv.org/abs/2603.04038)|null|
 |**2026-03-04**|**Adaptive Modular Geometric Control of Robotic Manipulators**|Jouni Mattila Team|[2603.03965](http://arxiv.org/abs/2603.03965)|null|
@@ -1997,6 +2002,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**TaxonRL: Reinforcement Learning with Intermediate Rewards for Interpretable Fine-Grained Visual Reasoning**|Maximilian Schall Team|[2603.04380](http://arxiv.org/abs/2603.04380)|null|
+|**2026-03-04**|**Scalable Evaluation of the Realism of Synthetic Environmental Augmentations in Images**|Jake Thomas Team|[2603.04325](http://arxiv.org/abs/2603.04325)|null|
+|**2026-03-04**|**Real5-OmniDocBench: A Full-Scale Physical Reconstruction Benchmark for Robust Document Parsing in the Wild**|Yi Liu Team|[2603.04205](http://arxiv.org/abs/2603.04205)|null|
 |**2026-03-04**|**When Visual Evidence is Ambiguous: Pareidolia as a Diagnostic Probe for Vision Models**|Rob Saunders Team|[2603.03989](http://arxiv.org/abs/2603.03989)|null|
 |**2026-03-04**|**Lightweight Visual Reasoning for Socially-Aware Robots**|Ginevra Castellano Team|[2603.03942](http://arxiv.org/abs/2603.03942)|null|
 |**2026-03-04**|**DeepScan: A Training-Free Framework for Visually Grounded Reasoning in Large Vision-Language Models**|Yue Lu Team|[2603.03857](http://arxiv.org/abs/2603.03857)|null|
@@ -6582,6 +6590,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**ManipulationNet: An Infrastructure for Benchmarking Real-World Robot Manipulation with Physical Skill Challenges and Embodied Multimodal Reasoning**|Kaiyu Hang Team|[2603.04363](http://arxiv.org/abs/2603.04363)|null|
+|**2026-03-04**|**Tendon Force Modeling for Sim2Real Transfer of Reinforcement Learning Policies for Tendon-Driven Robots**|Josie Hughes Team|[2603.04351](http://arxiv.org/abs/2603.04351)|null|
 |**2026-03-04**|**Structural Action Transformer for 3D Dexterous Manipulation**|Houqiang Li Team|[2603.03960](http://arxiv.org/abs/2603.03960)|null|
 |**2026-03-03**|**Rethinking Policy Diversity in Ensemble Policy Gradient in Large-Scale Reinforcement Learning**|Takayuki Osa Team|[2603.01741](http://arxiv.org/abs/2603.01741)|**[link](https://naoki04.github.io/paper-cpo/)**|
 |**2026-03-02**|**PhysGraph: Physically-Grounded Graph-Transformer Policies for Bimanual Dexterous Hand-Tool-Object Manipulation**|Truong Nguyen Team|[2603.01436](http://arxiv.org/abs/2603.01436)|null|

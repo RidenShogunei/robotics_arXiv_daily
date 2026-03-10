@@ -16,6 +16,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-09**|**Agentic Critical Training**|Furong Huang Team|[2603.08706](http://arxiv.org/abs/2603.08706)|**[link](https://attention-is-all-i-need.github.io/ACT/)**|
+|**2026-03-09**|**Exp-Force: Experience-Conditioned Pre-Grasp Force Selection with Vision-Language Models**|Lillian Chin Team|[2603.08668](http://arxiv.org/abs/2603.08668)|null|
+|**2026-03-09**|**FOMO-3D: Using Vision Foundation Models for Long-Tailed 3D Object Detection**|Raquel Urtasun Team|[2603.08611](http://arxiv.org/abs/2603.08611)|null|
+|**2026-03-09**|**EquiBim: Learning Symmetry-Equivariant Policy for Bimanual Manipulation**|Yu She Team|[2603.08541](http://arxiv.org/abs/2603.08541)|null|
+|**2026-03-09**|**AtomVLA: Scalable Post-Training for Robotic Manipulation via Predictive Latent World Models**|Jiayu Chen Team|[2603.08519](http://arxiv.org/abs/2603.08519)|null|
+|**2026-03-09**|**Oracle-Guided Soft Shielding for Safe Move Prediction in Chess**|Chokri Mraidha Team|[2603.08506](http://arxiv.org/abs/2603.08506)|null|
+|**2026-03-09**|**3PoinTr: 3D Point Tracks for Robot Manipulation Pretraining from Casual Videos**|Jeffrey Ichnowski Team|[2603.08485](http://arxiv.org/abs/2603.08485)|null|
+|**2026-03-09**|**LAR-MoE: Latent-Aligned Routing for Mixture of Experts in Robotic Imitation Learning**|Stefanie Speidel Team|[2603.08476](http://arxiv.org/abs/2603.08476)|null|
+|**2026-03-09**|**$Δ$ VLA: Prior-Guided Vision-Language-Action Models via World Knowledge Variation**|Zitong Yu Team|[2603.08361](http://arxiv.org/abs/2603.08361)|null|
+|**2026-03-09**|**SAIL: Test-Time Scaling for In-Context Imitation Learning with VLM**|So Kuroki Team|[2603.08269](http://arxiv.org/abs/2603.08269)|null|
 |**2026-03-09**|**TRIAGE: Type-Routed Interventions via Aleatoric-Epistemic Gated Estimation in Robotic Manipulation and Adaptive Perception -- Don't Treat All Uncertainty the Same**|Amit Ranjan Trivedi Team|[2603.08128](http://arxiv.org/abs/2603.08128)|null|
 |**2026-03-09**|**Towards Human-Like Manipulation through RL-Augmented Teleoperation and Mixture-of-Dexterous-Experts VLA**|Kaifeng Zhang Team|[2603.08122](http://arxiv.org/abs/2603.08122)|**[link](https://sites.google.com/view/mode-vla)**|
 |**2026-03-09**|**Adaptive Vision-Based Control of Redundant Robots with Null-Space Interaction for Human-Robot Collaboration**|Xiang Li Team|[2603.08089](http://arxiv.org/abs/2603.08089)|null|
@@ -2060,6 +2070,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-09**|**FVG-PT: Adaptive Foreground View-Guided Prompt Tuning for Vision-Language Models**|Yan Peng Team|[2603.08708](http://arxiv.org/abs/2603.08708)|null|
+|**2026-03-09**|**Exp-Force: Experience-Conditioned Pre-Grasp Force Selection with Vision-Language Models**|Lillian Chin Team|[2603.08668](http://arxiv.org/abs/2603.08668)|null|
+|**2026-03-09**|**MetaWorld-X: Hierarchical World Modeling via VLM-Orchestrated Experts for Humanoid Loco-Manipulation**|Lei Zhang Team|[2603.08572](http://arxiv.org/abs/2603.08572)|**[link](https://syt2004.github.io/metaworldX/)**|
+|**2026-03-09**|**The Neural Compass: Probabilistic Relative Feature Fields for Robotic Search**|Abhinav Valada Team|[2603.08544](http://arxiv.org/abs/2603.08544)|null|
+|**2026-03-09**|**Reading $\neq$ Seeing: Diagnosing and Closing the Typography Gap in Vision-Language Models**|Yiran Qin Team|[2603.08497](http://arxiv.org/abs/2603.08497)|null|
+|**2026-03-09**|**Global Cross-Modal Geo-Localization: A Million-Scale Dataset and a Physical Consistency Learning Framework**|Jiayuan Li Team|[2603.08491](http://arxiv.org/abs/2603.08491)|null|
+|**2026-03-09**|**Visual Self-Fulfilling Alignment: Shaping Safety-Oriented Personas via Threat-Related Images**|Di Wang Team|[2603.08486](http://arxiv.org/abs/2603.08486)|null|
+|**2026-03-09**|**R2F: Repurposing Ray Frontiers for LLM-free Object Navigation**|Vincenzo Suriani Team|[2603.08475](http://arxiv.org/abs/2603.08475)|null|
+|**2026-03-09**|**Can Vision-Language Models Solve the Shell Game?**|Wee Sun Lee Team|[2603.08436](http://arxiv.org/abs/2603.08436)|null|
+|**2026-03-09**|**MoMaStage: Skill-State Graph Guided Planning and Closed-Loop Execution for Long-Horizon Indoor Mobile Manipulation**|Yang Gao Team|[2603.08383](http://arxiv.org/abs/2603.08383)|null|
+|**2026-03-09**|**Local-Global Prompt Learning via Sparse Optimal Transport**|Alptekin Temizel Team|[2603.08347](http://arxiv.org/abs/2603.08347)|null|
+|**2026-03-09**|**SlowBA: An efficiency backdoor attack towards VLM-based GUI agents**|Haojin Zhu Team|[2603.08316](http://arxiv.org/abs/2603.08316)|null|
+|**2026-03-09**|**Do Models See in Line with Human Vision? Probing the Correspondence Between LVLM Representations and EEG Signals**|Jiang Zhong Team|[2603.08303](http://arxiv.org/abs/2603.08303)|null|
+|**2026-03-09**|**Novel Semantic Prompting for Zero-Shot Action Recognition**|Waheed Rehman Team|[2603.08289](http://arxiv.org/abs/2603.08289)|null|
+|**2026-03-09**|**SAIL: Test-Time Scaling for In-Context Imitation Learning with VLM**|So Kuroki Team|[2603.08269](http://arxiv.org/abs/2603.08269)|null|
+|**2026-03-09**|**Seed2Scale: A Self-Evolving Data Engine for Embodied AI via Small to Large Model Synergy and Multimodal Evaluation**|Tao Shen Team|[2603.08260](http://arxiv.org/abs/2603.08260)|null|
 |**2026-03-09**|**ALOOD: Exploiting Language Representations for LiDAR-based Out-of-Distribution Object Detection**|Klaus Dietmayer Team|[2603.08180](http://arxiv.org/abs/2603.08180)|null|
 |**2026-03-09**|**Enhancing Cross-View UAV Geolocalization via LVLM-Driven Relational Modeling**|Xiangyu Zhao Team|[2603.08063](http://arxiv.org/abs/2603.08063)|null|
 |**2026-03-09**|**It's Time to Get It Right: Improving Analog Clock Reading and Clock-Hand Spatial Reasoning in Vision-Language Models**|Jangho Lee Team|[2603.08011](http://arxiv.org/abs/2603.08011)|null|
@@ -5507,6 +5533,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-09**|**AtomVLA: Scalable Post-Training for Robotic Manipulation via Predictive Latent World Models**|Jiayu Chen Team|[2603.08519](http://arxiv.org/abs/2603.08519)|null|
+|**2026-03-09**|**$Δ$ VLA: Prior-Guided Vision-Language-Action Models via World Knowledge Variation**|Zitong Yu Team|[2603.08361](http://arxiv.org/abs/2603.08361)|null|
+|**2026-03-09**|**Seed2Scale: A Self-Evolving Data Engine for Embodied AI via Small to Large Model Synergy and Multimodal Evaluation**|Tao Shen Team|[2603.08260](http://arxiv.org/abs/2603.08260)|null|
 |**2026-03-09**|**SaiVLA-0: Cerebrum--Pons--Cerebellum Tripartite Architecture for Compute-Aware Vision-Language-Action**|Xinhai Sun Team|[2603.08124](http://arxiv.org/abs/2603.08124)|null|
 |**2026-03-09**|**Towards Human-Like Manipulation through RL-Augmented Teleoperation and Mixture-of-Dexterous-Experts VLA**|Kaifeng Zhang Team|[2603.08122](http://arxiv.org/abs/2603.08122)|**[link](https://sites.google.com/view/mode-vla)**|
 |**2026-03-09**|**SAMoE-VLA: A Scene Adaptive Mixture-of-Experts Vision-Language-Action Model for Autonomous Driving**|Yan Wang Team|[2603.08113](http://arxiv.org/abs/2603.08113)|null|
@@ -6333,6 +6362,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-09**|**Embedding Classical Balance Control Principles in Reinforcement Learning for Humanoid Recovery**|Robert Griffin Team|[2603.08619](http://arxiv.org/abs/2603.08619)|null|
+|**2026-03-09**|**MetaWorld-X: Hierarchical World Modeling via VLM-Orchestrated Experts for Humanoid Loco-Manipulation**|Lei Zhang Team|[2603.08572](http://arxiv.org/abs/2603.08572)|**[link](https://syt2004.github.io/metaworldX/)**|
 |**2026-03-09**|**Multifingered force-aware control for humanoid robots**|Lorenzo Natale Team|[2603.08142](http://arxiv.org/abs/2603.08142)|null|
 |**2026-03-09**|**Omnidirectional Humanoid Locomotion on Stairs via Unsafe Stepping Penalty and Sparse LiDAR Elevation Mapping**|Lijun Zhu Team|[2603.07928](http://arxiv.org/abs/2603.07928)|null|
 |**2026-03-08**|**InterReal: A Unified Physics-Based Imitation Framework for Learning Human-Object Interaction Skills**|Chenjia Bai Team|[2603.07516](http://arxiv.org/abs/2603.07516)|null|

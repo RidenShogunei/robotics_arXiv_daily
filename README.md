@@ -16,13 +16,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-23**|**ROBOGATE: Adaptive Failure Discovery for Safe Robot Policy Deployment via Two-Stage Boundary-Focused Sampling**|Byungjin Kim Team|[2603.22126](http://arxiv.org/abs/2603.22126)|**[link](https://github.com/liveplex-cpu/robogate)**|
 |**2026-03-22**|**GAPG: Geometry Aware Push-Grasping Synergy for Goal-Oriented Manipulation in Clutter**|Yu Ren Team|[2603.21195](http://arxiv.org/abs/2603.21195)|null|
 |**2026-03-22**|**Cortical Policy: A Dual-Stream View Transformer for Robotic Manipulation**|Liqiang Nie Team|[2603.21051](http://arxiv.org/abs/2603.21051)|null|
 |**2026-03-20**|**Multi-Robot Learning-Informed Task Planning Under Uncertainty**|Gregory J. Stein Team|[2603.20544](http://arxiv.org/abs/2603.20544)|null|
 |**2026-03-19**|**Speculative Policy Orchestration: A Latency-Resilient Framework for Cloud-Robotic Manipulation**|Erik Elmroth Team|[2603.19418](http://arxiv.org/abs/2603.19418)|null|
 |**2026-03-19**|**SOFTMAP: Sim2Real Soft Robot Forward Modeling via Topological Mesh Alignment and Physics Prior**|Jean Oh Team|[2603.19384](http://arxiv.org/abs/2603.19384)|null|
 |**2026-03-19**|**MonoArt: Progressive Structural Reasoning for Monocular Articulated 3D Reconstruction**|Ziwei Liu Team|[2603.19231](http://arxiv.org/abs/2603.19231)|**[link](https://lihaitian.com/MonoArt)**|
-|**2026-03-19**|**OmniVTA: Visuo-Tactile World Modeling for Contact-Rich Robotic Manipulation**|Wenchao Ding Team|[2603.19201](http://arxiv.org/abs/2603.19201)|**[link](https://mrsecant.github.io/OmniVTA)**|
+|**2026-03-23**|**OmniVTA: Visuo-Tactile World Modeling for Contact-Rich Robotic Manipulation**|Wenchao Ding Team|[2603.19201](http://arxiv.org/abs/2603.19201)|**[link](https://mrsecant.github.io/OmniVTA)**|
 |**2026-03-19**|**Sparse Autoencoders Reveal Interpretable and Steerable Features in VLA Models**|Mac Schwager Team|[2603.19183](http://arxiv.org/abs/2603.19183)|null|
 |**2026-03-20**|**Articulated-Body Dynamics Network: Dynamics-Grounded Prior for Robot Learning**|Josiah P. Hanna Team|[2603.19078](http://arxiv.org/abs/2603.19078)|null|
 |**2026-03-19**|**Safety-Guaranteed Imitation Learning from Nonlinear Model Predictive Control for Spacecraft Close Proximity Operations**|Alen Turnwald Team|[2603.18910](http://arxiv.org/abs/2603.18910)|null|
@@ -2188,6 +2189,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-23**|**ThinkJEPA: Empowering Latent World Models with Large Vision-Language Reasoning Model**|Yun Fu Team|[2603.22281](http://arxiv.org/abs/2603.22281)|null|
+|**2026-03-23**|**3D-Layout-R1: Structured Reasoning for Language-Instructed Spatial Editing**|Subhashree Radhakrishnan Team|[2603.22279](http://arxiv.org/abs/2603.22279)|null|
+|**2026-03-23**|**The Dual Mechanisms of Spatial Reasoning in Vision-Language Models**|Tamar Rott Shaham Team|[2603.22278](http://arxiv.org/abs/2603.22278)|null|
+|**2026-03-23**|**Scaling DoRA: High-Rank Adaptation via Factored Norms and Fused Kernels**|Alexandra Zhuravlyova Team|[2603.22276](http://arxiv.org/abs/2603.22276)|**[link](https://github.com/sockeye44/dorafactors)**|
+|**2026-03-23**|**SpatialReward: Verifiable Spatial Reward Modeling for Fine-Grained Spatial Consistency in Text-to-Image Generation**|Zhou Zhao Team|[2603.22228](http://arxiv.org/abs/2603.22228)|null|
+|**2026-03-23**|**MARCUS: An agentic, multimodal vision-language model for cardiac diagnosis and management**|Euan A Ashley Team|[2603.22179](http://arxiv.org/abs/2603.22179)|null|
+|**2026-03-23**|**Closed-Loop Verbal Reinforcement Learning for Task-Level Robotic Planning**|Dzmitry Tsetserukou Team|[2603.22169](http://arxiv.org/abs/2603.22169)|null|
+|**2026-03-23**|**ACPO: Counteracting Likelihood Displacement in Vision-Language Alignment with Asymmetric Constraints**|Lewei Lu Team|[2603.22165](http://arxiv.org/abs/2603.22165)|null|
+|**2026-03-23**|**Principled Steering via Null-space Projection for Jailbreak Defense in Vision-Language Models**|Xiangnan He Team|[2603.22094](http://arxiv.org/abs/2603.22094)|null|
+|**2026-03-23**|**P-Flow: Prompting Visual Effects Generation**|Mike Zheng Shou Team|[2603.22091](http://arxiv.org/abs/2603.22091)|null|
+|**2026-03-23**|**Do World Action Models Generalize Better than VLAs? A Robustness Study**|Yingxue Zhang Team|[2603.22078](http://arxiv.org/abs/2603.22078)|null|
+|**2026-03-23**|**Adapting Point Cloud Analysis via Multimodal Bayesian Distribution Learning**|Hanwang Zhang Team|[2603.22070](http://arxiv.org/abs/2603.22070)|null|
+|**2026-03-23**|**Uncertainty-guided Compositional Alignment with Part-to-Whole Semantic Representativeness in Hyperbolic Vision-Language Models**|Se Young Chun Team|[2603.22042](http://arxiv.org/abs/2603.22042)|null|
 |**2026-03-23**|**IGV-RRT: Prior-Real-Time Observation Fusion for Active Object Search in Changing Environments**|Chaoqun Wang Team|[2603.21887](http://arxiv.org/abs/2603.21887)|null|
 |**2026-03-23**|**Getting to the Point: Why Pointing Improves LVLMs**|Giuseppe Riccardi Team|[2603.21746](http://arxiv.org/abs/2603.21746)|null|
 |**2026-03-23**|**Rethinking Token Reduction for Large Vision-Language Models**|Xinchao Wang Team|[2603.21701](http://arxiv.org/abs/2603.21701)|null|
@@ -5836,6 +5850,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-23**|**DualCoT-VLA: Visual-Linguistic Chain of Thought via Parallel Reasoning for Vision-Language-Action Models**|Haoang Li Team|[2603.22280](http://arxiv.org/abs/2603.22280)|null|
+|**2026-03-23**|**UniDex: A Robot Foundation Suite for Universal Dexterous Hand Control from Egocentric Human Videos**|Huazhe Xu Team|[2603.22264](http://arxiv.org/abs/2603.22264)|null|
+|**2026-03-23**|**ROBOGATE: Adaptive Failure Discovery for Safe Robot Policy Deployment via Two-Stage Boundary-Focused Sampling**|Byungjin Kim Team|[2603.22126](http://arxiv.org/abs/2603.22126)|**[link](https://github.com/liveplex-cpu/robogate)**|
+|**2026-03-23**|**Do World Action Models Generalize Better than VLAs? A Robustness Study**|Yingxue Zhang Team|[2603.22078](http://arxiv.org/abs/2603.22078)|null|
 |**2026-03-23**|**VP-VLA: Visual Prompting as an Interface for Vision-Language-Action Models**|Jiaya Jia Team|[2603.22003](http://arxiv.org/abs/2603.22003)|**[link](https://visualprompt-vla.github.io/)**|
 |**2026-03-23**|**AI Token Futures Market: Commoditization of Compute and Derivatives Contract Design**|Yicai Xing Team|[2603.21690](http://arxiv.org/abs/2603.21690)|null|
 |**2026-03-22**|**RoboAlign: Learning Test-Time Reasoning for Language-Action Alignment in Vision-Language-Action Models**|Younggyo Seo Team|[2603.21341](http://arxiv.org/abs/2603.21341)|null|
@@ -6748,6 +6766,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-23**|**Make Tracking Easy: Neural Motion Retargeting for Humanoid Whole-body Control**|Xun Cao Team|[2603.22201](http://arxiv.org/abs/2603.22201)|null|
 |**2026-03-23**|**Can a Robot Walk the Robotic Dog: Triple-Zero Collaborative Navigation for Heterogeneous Multi-Agent Systems**|Tong Yang Team|[2603.21723](http://arxiv.org/abs/2603.21723)|null|
 |**2026-03-20**|**Morphology-Consistent Humanoid Interaction through Robot-Centric Video Synthesis**|Renjing Xu Team|[2603.19709](http://arxiv.org/abs/2603.19709)|null|
 |**2026-03-13**|**PhyGile: Physics-Prefix Guided Motion Generation for Agile General Humanoid Motion Tracking**|Bin Zhao Team|[2603.19305](http://arxiv.org/abs/2603.19305)|null|
@@ -7177,6 +7196,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-23**|**Decoupling Exploration and Policy Optimization: Uncertainty Guided Tree Search for Hard Exploration**|James Cohan Team|[2603.22273](http://arxiv.org/abs/2603.22273)|null|
+|**2026-03-23**|**UniDex: A Robot Foundation Suite for Universal Dexterous Hand Control from Egocentric Human Videos**|Huazhe Xu Team|[2603.22264](http://arxiv.org/abs/2603.22264)|null|
+|**2026-03-23**|**DexDrummer: In-Hand, Contact-Rich, and Long-Horizon Dexterous Robot Drumming**|Dorsa Sadigh Team|[2603.22263](http://arxiv.org/abs/2603.22263)|**[link](https://dexdrummer.github.io/)**|
 |**2026-03-22**|**Geometrically Plausible Object Pose Refinement using Differentiable Simulation**|Akansel Cosgun Team|[2603.20992](http://arxiv.org/abs/2603.20992)|null|
 |**2026-03-18**|**DexViTac: Collecting Human Visuo-Tactile-Kinematic Demonstrations for Contact-Rich Dexterous Manipulation**|Xiaotian Ding Team|[2603.17851](http://arxiv.org/abs/2603.17851)|**[link](https://xitong-c.github.io/DexViTac/)**|
 |**2026-03-20**|**TeleDex: Accessible Dexterous Teleoperation**|Yuchen Cui Team|[2603.17065](http://arxiv.org/abs/2603.17065)|**[link](https://www.orayyan.com/teledex)**|
